@@ -16,6 +16,12 @@ The groundwater (GW) resource plays a central role in securing water supply in t
 - **⚙️ Performance**: CatBoost achieved R² of 0.99 and RMSE of 0.001.
 - **🔍 Significant Predictors**: Na⁺, K⁺, and Mg²⁺ were the most influential factors.
 
+## 🗂️ Dataset Description
+The dataset consists of groundwater samples from southern Bangladesh. Key parameters include:
+- **📈 Input Features**: Depth, Temperature, pH, Salinity, Ca²⁺, Mg²⁺, Na⁺, K⁺, HCO₃⁻, NO₃⁻, SO₄²⁻, F⁻.
+- **🎯 Target Variable**: PO₄³⁻ (mg/L).
+
+
 
 
 
