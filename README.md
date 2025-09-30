@@ -88,7 +88,7 @@ If you use this work, please cite the original publication:
 
 ## 🖼️ Graphical abstract
 
-![Grahical_Abstract_PO4]([https://github.com/user-attachments/assets/eca13f50-b547-49fe-9639-72c03b784096](https://ars.els-cdn.com/content/image/1-s2.0-S0169772224001840-ga1_lrg.jpg))
+![Grahical_Abstract_PO4]([](https://ars.els-cdn.com/content/image/1-s2.0-S0169772224001840-ga1_lrg.jpg))
 
 
 
