@@ -88,8 +88,8 @@ If you use this work, please cite the original publication:
 
 ## 🖼️ Graphical abstract
 
-![Grahical_Abstract_PO4]([](![Uploading Grahical Abstract, (coastal_water_qualityML) - final after review.jpg…]()
-))
+![Grahical Abstract, (coastal_water_qualityML) - final after review](https://github.com/user-attachments/assets/1543b729-6c2d-413d-aa55-9f12a57b3697)
+
 
 
 
