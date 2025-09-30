@@ -1,6 +1,6 @@
 # 📚 Research Publications
 
-## 📑 Academic Research Projects: 1
+## 📑 Predicting groundwater phosphate levels in coastal multi-aquifers: A geostatistical and data-driven approach
 
 ### 🌊🔍 Predicting Groundwater Phosphate Levels in Coastal Multi-Aquifers
 https://doi.org/10.1016/j.scitotenv.2024.176024
@@ -42,9 +42,7 @@ Of course\! Here is a summary of your publication, formatted in a professional a
 
 # 📚 Research Publications
 
-## 📑 Optimizing Coastal Groundwater Quality Predictions
-
-**A Novel Data Mining Framework with Cross-Validation, Bootstrapping, and Entropy Analysis**
+## 📑 Optimizing coastal groundwater quality predictions: A novel data mining framework with cross-validation, bootstrapping, and entropy analysis
 
 🔗 **Publication Link**: [https://doi.org/10.1016/j.jconhyd.2024.104480](https://doi.org/10.1016/j.jconhyd.2024.104480)
 
