@@ -88,7 +88,8 @@ If you use this work, please cite the original publication:
 
 ## 🖼️ Graphical abstract
 
-![Grahical_Abstract_PO4]([](https://ars.els-cdn.com/content/image/1-s2.0-S0169772224001840-ga1_lrg.jpg))
+![Grahical_Abstract_PO4]([](![Uploading Grahical Abstract, (coastal_water_qualityML) - final after review.jpg…]()
+))
 
 
 
