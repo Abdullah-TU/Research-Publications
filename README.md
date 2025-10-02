@@ -132,14 +132,11 @@ If you use any part of this research, please cite:
 
 > Islam, A. R. M. T., Varol, M., Mallick, J., **Mamun, M. A.-A.**, Mia, M. Y., Siddique, M. A. B., **Islam, M. S.**, **Aktar, M. N.** (2026). Tracing source footprints of heavy metal(oid)s in coastal soils using traditional statistical techniques and machine learning data-driven models. *Marine Pollution Bulletin, 222*, 118701. [https://doi.org/10.1016/j.marpolbul.2025.118701](https://doi.org/10.1016/j.marpolbul.2025.118701) 
 
-## 🖼️ Graphical abstract
+## 🖼️ SOM component planes and clustering for heavy metals in coastal regions, Bangladesh
 
-*(Replace with your image asset)*
-![Graphical\_Abstract\_HMs](path/to/your/image.png)
+![Picture1](https://github.com/user-attachments/assets/a7eda584-ea12-494d-852d-19d6fdcef21f)
 
 
-Medical References:
-1. None — DOI: file-WkpS5R6FueW2PPbxUMZdBG
 
 
 
