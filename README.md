@@ -91,7 +91,55 @@ If you use this work, please cite the original publication:
 
 
 
+# 📚 Research Publications
 
+## 📑 Tracing source footprints of heavy metal(oid)s in coastal soils using traditional statistical techniques and machine learning data-driven models
+
+### 🌊🧪 Tracing source footprints of heavy metal(oid)s in coastal soils using traditional statistical techniques and machine learning data-driven models
+
+[https://doi.org/10.1016/j.marpolbul.2025.118701](https://doi.org/10.1016/j.marpolbul.2025.118701)
+
+**👥 Authors**: Abu Reza Md Towfiqul Islam, Memet Varol, Javed Mallick, **Md. Abdullah-Al Mamun**, Md. Yousuf Mia, Md. Abu Bakar Siddique, **Md. Saiful Islam**, **Mst. Nazneen Aktar**. 
+
+### Abstract
+
+We integrate traditional statistics (PCA, PCoA) with machine-learning tools (Self-Organizing Maps, Conditional Inference Trees, Ridge Regression, SHAP) to trace sources of heavy metal(oid)s (As, Pb, Zn, Cd, Cu, Ni, Cr, Mn, Fe, U) in coastal soils along the northeast Bay of Bengal. Several metals (Pb, Cd, Mn, As) exceed average shale values, with clear spatial patterns separating industrial/shipbreaking hotspots from geogenic backgrounds. Ridge models achieve high predictive accuracy and SHAP explains the controlling roles of soil pH, texture (sand/silt/clay), elevation, and organic matter. Findings support targeted pollution control and sustainable coastal management. 
+
+### ✨ Key Highlights
+
+* **📍 Study area & scope**: Northeast coast of Bangladesh; spatial source-tracing of heavy metal(oid)s in coastal soils. 
+* **🧪 Methods**: PCA, PCoA, SOM, CIT, Ridge Regression (Bayesian-optimized), SHAP, and GIS mapping (IDW). 
+* **⚠️ Exceedances**: Pb, Cd, Mn, and As exceed average shale/background values in parts of the study region. 
+* **🔄 Source signals**: SOM & CIT indicate **shipbreaking/industrial** signatures (Cu, Zn, Pb) vs **geogenic** controls (As, Ni, Cr, Mn, Fe). 
+* **📈 Model performance**: Ridge shows very strong fits—e.g., **Ni R² ≈ 0.998**, **Fe R² ≈ 0.995**, **Cd R² ≈ 0.977**, **Mn R² ≈ 0.898**—aligning with CIT/SHAP drivers. 
+* **🗺️ Spatial structure**: PCoA explains **~75.46%** of spatial variation; industrial hotspots (e.g., Patenga/Sonadia/Kutubdia) contrast with lower-impact islands (e.g., St. Martin’s). 
+
+## 🗂️ Dataset Description
+
+* **Sampling**: **78** surface-soil samples (0–10 cm) from **6 sites** — St. Martin’s, Matarbari, Kutubdia, Sonadia, Sandwip, Patenga — collected **March–April 2023**. 
+* **Analytes**: As, Pb, Zn, Cd, Cu, Ni, Cr, Mn, Fe, U (AAS; QA/QC with reference materials; recoveries ~95–110%). 
+* **Soil properties**: pH, organic matter, sand/silt/clay fractions, elevation; used as predictors in ML models. 
+
+## 📊 Results
+
+* **Source tracing**: SOM clusters and CIT thresholds separate **anthropogenic** (shipbreaking, battery/industrial waste, fertilizer runoff) from **geogenic** patterns. 
+* **Explained variation**: PCoA axis pair explains **75.46%** of spatial differences in metal profiles. 
+* **Model + XAI**: Ridge predictions align with SHAP—**pH**, **texture (silt/clay)**, **OM**, **elevation** are dominant drivers; metals show site-specific hotspots consistent with industry/agriculture. 
+
+## 📚 Citation
+
+If you use any part of this research, please cite:
+
+> Islam, A. R. M. T., Varol, M., Mallick, J., **Mamun, M. A.-A.**, Mia, M. Y., Siddique, M. A. B., **Islam, M. S.**, **Aktar, M. N.** (2026). Tracing source footprints of heavy metal(oid)s in coastal soils using traditional statistical techniques and machine learning data-driven models. *Marine Pollution Bulletin, 222*, 118701. [https://doi.org/10.1016/j.marpolbul.2025.118701](https://doi.org/10.1016/j.marpolbul.2025.118701) 
+
+## 🖼️ Graphical abstract
+
+*(Replace with your image asset)*
+![Graphical\_Abstract\_HMs](path/to/your/image.png)
+
+
+Medical References:
+1. None — DOI: file-WkpS5R6FueW2PPbxUMZdBG
 
 
 
