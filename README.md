@@ -16,18 +16,18 @@ The groundwater (GW) resource plays a central role in securing water supply in t
 - **Performance**: CatBoost achieved R² of 0.99 and RMSE of 0.001.
 - **Significant Predictors**: Na⁺, K⁺, and Mg²⁺ were the most influential factors.
 
-## 🗂️ Dataset Description
+## Dataset Description
 The dataset consists of groundwater samples from southern Bangladesh. Key parameters include:
-- **📈 Input Features**: Depth, Temperature, pH, Salinity, Ca²⁺, Mg²⁺, Na⁺, K⁺, HCO₃⁻, NO₃⁻, SO₄²⁻, F⁻.
-- **🎯 Target Variable**: PO₄³⁻ (mg/L).
+- **Input Features**: Depth, Temperature, pH, Salinity, Ca²⁺, Mg²⁺, Na⁺, K⁺, HCO₃⁻, NO₃⁻, SO₄²⁻, F⁻.
+- **Target Variable**: PO₄³⁻ (mg/L).
 
-- ## 📊 Results
-- **🚀 CatBoost Model**: Best accuracy (R² = 0.99, RMSE = 0.001).
-- **🌍 Geostatistical Analysis**: Na⁺, K⁺ showed high spatial autocorrelation influencing PO₄³⁻ levels.
-- **🧩 SOM Analysis**: Revealed distinct clusters of hydrochemical patterns.
+- ## Results
+- **CatBoost Model**: Best accuracy (R² = 0.99, RMSE = 0.001).
+- **Geostatistical Analysis**: Na⁺, K⁺ showed high spatial autocorrelation influencing PO₄³⁻ levels.
+- **SOM Analysis**: Revealed distinct clusters of hydrochemical patterns.
 
 
-## 📚 Citation  
+## Citation  
 If you use any part of this research, please cite:
 
 > Mamun, M. A.-A., Islam, A. R. M. T., Aktar, M. N., Uddin, M. N., Islam, M. S., Pal, S. C., Islam, A., Bari, A. B. M. M., Idris, A. M., & Senapathi, V. (2024). Predicting groundwater phosphate levels in coastal multi-aquifers: A geostatistical and data-driven approach. *Science of The Total Environment*, 953, 176024. [https://doi.org/10.1016/j.scitotenv.2024.176024](https://doi.org/10.1016/j.scitotenv.2024.176024)
