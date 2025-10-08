@@ -1,4 +1,4 @@
-# 📚 Research Publications
+# Research Publications
 
 ## 📑 Predicting groundwater phosphate levels in coastal multi-aquifers: A geostatistical and data-driven approach
 
