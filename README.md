@@ -134,6 +134,29 @@ If you use any part of this research, please cite:
 
 ![Picture1](https://github.com/user-attachments/assets/a7eda584-ea12-494d-852d-19d6fdcef21f)
 
+## 2026 — *Marine Pollution Bulletin* (In press)
+
+### First probabilistic radiological risk appraisal of Bay of Bengal beach sands: Explicit spatial hot-spot analysis
+
+**Authors:** Jahanara Habib Zesha, **Md. Abdullah-Al Mamun**, Abu Reza Md. Towfiqul Islam, Md. Ahosan Habib, Rahat Khan
+
+**Status:** Accepted (In press). DOI: *forthcoming*
+**One-liner:** A PCA–GIS–Monte Carlo framework to quantify radiological risk in Bay of Bengal beach sands and map statistically robust hotspots for management.
+
+**Key highlights**
+
+* 📐 Integrates **PCA**, **spatial analysis (GIS)**, and **Monte Carlo** to propagate uncertainty.
+* 🗺️ Produces **explicit hot-spot maps** to support targeted monitoring.
+* 📏 Uses field gamma-spectrometric measurements with quality control.
+* 🧭 Offers a reproducible pipeline for **coastal radiological risk appraisal**.
+
+**Suggested citation (APA 6, CV/GitHub-friendly):**
+Zesha, J. H., **Mamun, M. A.**, Islam, A. R. M. T., Habib, M. A., & Khan, R. (2026). First probabilistic radiological risk appraisal of Bay of Bengal beach sands: Explicit spatial hot-spot analysis. *Marine Pollution Bulletin.* In press.
+
+**🖼️ Figure placeholder:**
+`![Graphical_Abstract_MPB_Radiological-Risk](path-to-your-image.png)`
+
+
 
 
 
