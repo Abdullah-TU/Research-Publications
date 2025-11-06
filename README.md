@@ -134,6 +134,7 @@ If you use any part of this research, please cite:
 
 ![Picture1](https://github.com/user-attachments/assets/a7eda584-ea12-494d-852d-19d6fdcef21f)
 
+# Research Publications
 ## 2026 — *Marine Pollution Bulletin* (In press)
 
 ### First probabilistic radiological risk appraisal of Bay of Bengal beach sands: Explicit spatial hot-spot analysis
