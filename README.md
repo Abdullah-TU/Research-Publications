@@ -155,7 +155,7 @@ If you use any part of this research, please cite:
 Zesha, J. H., **Mamun, M. A.**, Islam, A. R. M. T., Habib, M. A., & Khan, R. (2026). First probabilistic radiological risk appraisal of Bay of Bengal beach sands: Explicit spatial hot-spot analysis. *Marine Pollution Bulletin.* In press.
 
 **🖼️ Fig. 1. Multi-scale geological and sampling framework of the study area. :**
-`![Graphical_Abstract_MPB_Radiological-Risk](path-to-your-image.png)`
+`!([Fig.1](https://github.com/Abdullah-TU/Images-for-Other-Files/blob/main/Fig.%201%20Final.jpg))`
 
 
 
