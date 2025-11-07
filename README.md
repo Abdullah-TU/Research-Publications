@@ -2,10 +2,10 @@
 Total number of publications so far**: 5
 
 | Journal name                     | Journal category (SCImago)  | Journal Impact Factor (year) | Number of papers published* |  |
-| -------------------------------- | ---------------- | ---------------------------: | --------------------------: | ------------------------------------: |
-| Science of The Total Environment |     Q1     |               8.0 (2024 JCR) |                           1 |                                     4 |
-| Journal of Contaminant Hydrology |     Q1     |               4.4 (2024 JCR) |                           1 |                                     4 |
-| Marine Pollution Bulletin        |     Q1    |               4.9 (2024 JCR) |                           2 |                                     4 |
+| -------------------------------- | ---------------- | ---------------------------: | --------------------------: | 
+| Science of The Total Environment |     Q1     |               8.0 (2024 JCR) |                           1 |                               
+| Journal of Contaminant Hydrology |     Q1     |               4.4 (2024 JCR) |                           1 |                                
+| Marine Pollution Bulletin        |     Q1    |               4.9 (2024 JCR) |                           2 |                                   
 
 ## 1. Predicting groundwater phosphate levels in coastal multi-aquifers: A geostatistical and data-driven approach
 
