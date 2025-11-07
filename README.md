@@ -1,5 +1,5 @@
 # Research Publications
-Total number of publications so far**: 5
+**Total number of publications so far**: **5**
 
 | Journal name                     | Journal category (SCImago)  | Journal Impact Factor (year) | Number of papers published* |  
 | -------------------------------- | ---------------- | ---------------------------: | --------------------------: | 
