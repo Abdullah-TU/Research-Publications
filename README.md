@@ -87,9 +87,7 @@ If you use this work, please cite the original publication:
 
 
 
-# 📚 Research Publications
-
-## 📑 Tracing source footprints of heavy metal(oid)s in coastal soils using traditional statistical techniques and machine learning data-driven models
+## 📑3. Tracing source footprints of heavy metal(oid)s in coastal soils using traditional statistical techniques and machine learning data-driven models
 
 ### 🌊🧪 Tracing source footprints of heavy metal(oid)s in coastal soils using traditional statistical techniques and machine learning data-driven models
 
