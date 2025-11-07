@@ -38,7 +38,7 @@ If you use any part of this research, please cite:
 
 -----
 
-# 2.  Optimizing coastal groundwater quality predictions: A novel data mining framework with cross-validation, bootstrapping, and entropy analysis
+## 2.  Optimizing coastal groundwater quality predictions: A novel data mining framework with cross-validation, bootstrapping, and entropy analysis
 
 🔗 **Publication Link**: [https://doi.org/10.1016/j.jconhyd.2024.104480](https://doi.org/10.1016/j.jconhyd.2024.104480)
 
