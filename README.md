@@ -1,8 +1,7 @@
 # Research Publications
 Here’s a clean summary table you can paste at the very top:
 
-| Journal name                     | Journal category
-(SCImago)  | Journal Impact Factor (year) | Number of papers published* | Total number of publications so far** |
+| Journal name                     | Journal category(SCImago)  | Journal Impact Factor (year) | Number of papers published* | Total number of publications so far** |
 | -------------------------------- | ---------------- | ---------------------------: | --------------------------: | ------------------------------------: |
 | Science of The Total Environment | Q1     |               8.0 (2024 JCR) |                           1 |                                     4 |
 | Journal of Contaminant Hydrology | Q1     |               4.4 (2024 JCR) |                           1 |                                     4 |
