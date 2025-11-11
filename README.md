@@ -1,11 +1,12 @@
 # Research Publications
 **Total number of publications so far**: **5**
 
-| Journal name                     | Journal category (SCImago)  | Impact Factor (year) | Number of papers published* |  
-| -------------------------------- | ---------------- | ---------------------------: | --------------------------: | 
-| **Science of The Total Environment (STOTEN)** |     Q1     |               8.0 (2024 JCR) |                           1 |                               
-| **Journal of Contaminant Hydrology** |     Q1     |               4.4 (2024 JCR) |                           1 |                                
-| **Marine Pollution Bulletin  (MPB)**      |     Q1    |               4.9 (2024 JCR) |                           2 |                                   
+| Journal name | Journal category (SCImago) | Impact Factor (year) | Number of papers published* |
+| ------------- | -------------------------- | -------------------: | --------------------------: |
+| **<span style="color:#1f77b4;">Science of The Total Environment (STOTEN)</span>** | <span style="color:green;">Q1</span> | <span style="color:#ff7f0e;">8.0 (2024 JCR)</span> | <span style="color:#d62728;">1</span> |
+| **<span style="color:#1f77b4;">Journal of Contaminant Hydrology</span>** | <span style="color:green;">Q1</span> | <span style="color:#ff7f0e;">4.4 (2024 JCR)</span> | <span style="color:#d62728;">1</span> |
+| **<span style="color:#1f77b4;">Marine Pollution Bulletin (MPB)</span>** | <span style="color:green;">Q1</span> | <span style="color:#ff7f0e;">4.9 (2024 JCR)</span> | <span style="color:#d62728;">2</span> |
+                
 
 ## 1. Predicting groundwater phosphate levels in coastal multi-aquifers: A geostatistical and data-driven approach
 
