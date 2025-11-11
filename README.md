@@ -1,5 +1,5 @@
 # Research Publications
-### **Total number of publications**: **![5](https://img.shields.io/badge/5-8a2be2?style=flat&color=8a2be2&labelColor=8a2be2&logoColor=white)**
+## **Total number of publications**: **![5](https://img.shields.io/badge/5-8a2be2?style=flat&color=8a2be2&labelColor=8a2be2&logoColor=white)**
 
 | **Journal name** | Journal category (SCImago) | Impact Factor (year) | **Number of papers published*** |
 | ---------------- | -------------------------- | -------------------: | ------------------------------: |
