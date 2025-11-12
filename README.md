@@ -61,7 +61,6 @@ If you use any part of this research, please cite:
   - [cite\_start]**⚙️ Validation**: Utilized robust validation techniques, including **k-fold cross-validation (CV)** and **bootstrapping (B)**, to ensure model stability and reliability[cite: 33].
   - [cite\_start]**🚀 Top Performer**: The **ANN models** (both CV and B versions) demonstrated superior predictive accuracy, achieving an R² of up to **0.971** and an RMSE of **0.041** in the test phase[cite: 36].
   - [cite\_start]**🔍 Key Predictors**: Analysis revealed that **Sulfate** ($SO_{4}^{2-}$), **Chloride** (Cl⁻), and **Fluoride** (F⁻) were the most significant parameters influencing prediction accuracy[cite: 37].
-
 -----
 
 ### 🗂️ Dataset Description
