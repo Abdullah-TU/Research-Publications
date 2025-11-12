@@ -34,7 +34,6 @@ The dataset consists of groundwater samples from southern Bangladesh. Key parame
 - **Geostatistical Analysis**: Na⁺, K⁺ showed high spatial autocorrelation influencing PO₄³⁻ levels.
 - **SOM Analysis**: Revealed distinct clusters of hydrochemical patterns.
 
-
 ## Citation  
 If you use any part of this research, please cite:
 
@@ -42,7 +41,6 @@ If you use any part of this research, please cite:
 
 ## Graphical abstract
 ![Grahical_Abstract_PO4](https://github.com/user-attachments/assets/eca13f50-b547-49fe-9639-72c03b784096)
-
 
 -----
 
