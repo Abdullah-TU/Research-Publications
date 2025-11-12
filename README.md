@@ -90,8 +90,6 @@ If you use this work, please cite the original publication:
 
 ![Grahical Abstract, (coastal_water_qualityML) - final after review](https://github.com/user-attachments/assets/1543b729-6c2d-413d-aa55-9f12a57b3697)
 
-
-
 ## 📑3. Tracing source footprints of heavy metal(oid)s in coastal soils using traditional statistical techniques and machine learning data-driven models
 
 ### 🌊🧪 Tracing source footprints of heavy metal(oid)s in coastal soils using traditional statistical techniques and machine learning data-driven models
