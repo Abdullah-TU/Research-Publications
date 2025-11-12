@@ -7,7 +7,7 @@
 | **Journal of Contaminant Hydrology** | Q1 | 4.4 (2024 JCR) | **![1](https://img.shields.io/badge/1-8a2be2?style=flat&color=8a2be2&labelColor=8a2be2&logoColor=white)** |
 | **Marine Pollution Bulletin (MPB)** | Q1 | 4.9 (2024 JCR) | **![2](https://img.shields.io/badge/2-8a2be2?style=flat&color=8a2be2&labelColor=8a2be2&logoColor=white)** |
 
-
+# Publications
 ## 1. Predicting groundwater phosphate levels in coastal multi-aquifers: A geostatistical and data-driven approach
 
 ### Predicting Groundwater Phosphate Levels in Coastal Multi-Aquifers
