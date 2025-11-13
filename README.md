@@ -76,7 +76,6 @@ If you use any part of this research, please cite:
   - [cite\_start]**🏆 Model Performance**: The **ANN model** consistently outperformed the GPR and BRR models, proving most effective for generalizing to new data and accurately mapping groundwater quality zones[cite: 40, 1433, 1434].
   - [cite\_start]**🌍 Spatial Analysis**: **Self-Organizing Maps (SOM)** and **Moran's I autocorrelation** successfully identified distinct spatial patterns and clustering of contaminants, particularly for $HCO_{3}^{-}$, $SO_{4}^{2-}$, and F⁻, which aids in locating pollution hotspots[cite: 36, 589].
   - [cite\_start]**🗺️ Water Quality Mapping**: The models generated detailed spatial distribution maps, revealing that the southeastern areas around Cox's Bazar suffer from the poorest water quality, likely due to urbanization and industrial pressures[cite: 1432].
-
 -----
 
 ### 📚 Citation
