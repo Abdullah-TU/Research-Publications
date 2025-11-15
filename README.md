@@ -1,11 +1,11 @@
 # Research
 ## **Total number of publications**: **![5](https://img.shields.io/badge/5-8a2be2?style=flat&color=8a2be2&labelColor=8a2be2&logoColor=white)**
 
-| **Journal name** | Journal category (SCImago) | Impact Factor (year) | **Number of papers published*** |
-| ---------------- | -------------------------- | -------------------: | ------------------------------: |
-| **Science of The Total Environment (STOTEN)** | Q1 | 8.0 (2024 JCR) | **![1](https://img.shields.io/badge/1-8a2be2?style=flat&color=8a2be2&labelColor=8a2be2&logoColor=white)** |
-| **Journal of Contaminant Hydrology** | Q1 | 4.4 (2024 JCR) | **![1](https://img.shields.io/badge/1-8a2be2?style=flat&color=8a2be2&labelColor=8a2be2&logoColor=white)** |
-| **Marine Pollution Bulletin (MPB)** | Q1 | 4.9 (2024 JCR) | **![2](https://img.shields.io/badge/2-8a2be2?style=flat&color=8a2be2&labelColor=8a2be2&logoColor=white)** |
+| **Journal name** | Journal category (SCImago) | Impact Factor (year) | CiteScore |**Number of papers published*** |
+| ---------------- | -------------------------- | -------------------: | -------------------: | ------------------------------: |
+| **Science of The Total Environment (STOTEN)** | Q1 | 8.0 (2024 JCR) |16.4| **![1](https://img.shields.io/badge/1-8a2be2?style=flat&color=8a2be2&labelColor=8a2be2&logoColor=white)** |
+| **Journal of Contaminant Hydrology** | Q1 | 4.4 (2024 JCR) |  8.0 |**![1](https://img.shields.io/badge/1-8a2be2?style=flat&color=8a2be2&labelColor=8a2be2&logoColor=white)** |
+| **Marine Pollution Bulletin (MPB)** | Q1 | 4.9 (2024 JCR) | 9.7| **![2](https://img.shields.io/badge/2-8a2be2?style=flat&color=8a2be2&labelColor=8a2be2&logoColor=white)** |
 
 # Publications
 ## 1. Predicting groundwater phosphate levels in coastal multi-aquifers: A geostatistical and data-driven approach
