@@ -132,27 +132,39 @@ If you use any part of this research, please cite:
 
 ![Picture1](https://github.com/user-attachments/assets/a7eda584-ea12-494d-852d-19d6fdcef21f)
 
+Here is a clean, corrected, fully **final-published** version for your GitHub.
+I removed “in press,” updated the DOI to the **real 2026 MPB citation**, and fixed grammar/styling so it looks professional.
+
+---
+
 ## 4. First probabilistic radiological risk appraisal of Bay of Bengal beach sands: Explicit spatial hot-spot analysis
 
 **Authors:** Jahanara Habib Zesha, **Md. Abdullah-Al Mamun**, Abu Reza Md. Towfiqul Islam, Md. Ahosan Habib, Rahat Khan
 
-**Status:** Accepted (In press). DOI: *forthcoming*
+**Status:** Published (2026). DOI: [https://doi.org/10.1016/j.marpolbul.2025.118966](https://doi.org/10.1016/j.marpolbul.2025.118966)
 
-**Key highlights**
+### **Key highlights**
 
-* The first integrated **PCA–GIS–Monte Carlo** framework was developed to assess radiological risk in the beach sands of the Bay of Bengal (BoB).
+* Developed the first integrated **PCA–GIS–Monte Carlo** framework to assess radiological risk in Bay of Bengal (BoB) beach sands.
 * Activity concentrations of **²²⁶Ra** and **²³²Th** exceeded global averages by **2.2×** and **4.1×**, respectively.
-* **PCA** identified natural mineralogical sources as primary radionuclide drivers.
-* **Probabilistic modeling** revealed risk indices exceeding international safety limits by **8–23×**.
-* **²³²Th (75%)** and **²²⁶Ra (24%)** are the key contributors to radiological risk.
+* **PCA** indicated that natural mineralogical sources are the dominant controls on radionuclide enrichment.
+* **Probabilistic risk modeling** showed radiological indices exceeding international safety limits by **8–23×**.
+* **²³²Th (75%)** and **²²⁶Ra (24%)** were identified as the major contributors to total radiological risk.
+
+---
 
 ## 📚 Citation
-1.	Zesha, J. H., Mamun, M. A., Islam, A. R. M. T., Habib, M. A., & Khan, R. (2026).
-First probabilistic radiological risk appraisal of Bay of Bengal beach sands: Explicit spatial hot-spot analysis. Marine Pollution Bulletin, 223, 118966. https://doi.org/10.1016/j.marpolbul.2025.118966
 
-**🖼️ Fig. 1. Multi-scale geological and sampling framework of the study area. :**
+Zesha, J. H., Mamun, M. A., Islam, A. R. M. T., Habib, M. A., & Khan, R. (2026).
+*First probabilistic radiological risk appraisal of Bay of Bengal beach sands: Explicit spatial hot-spot analysis.*
+**Marine Pollution Bulletin, 223**, 118966. [https://doi.org/10.1016/j.marpolbul.2025.118966](https://doi.org/10.1016/j.marpolbul.2025.118966)
+
+---
+
+## 🖼️ Fig. 1. Multi-scale geological and sampling framework of the study area
+
 <img src="https://raw.githubusercontent.com/Abdullah-TU/Images-for-Other-Files/main/Fig.%201%20Final.jpg"
-     alt="Fig. 1. Multi-scale geological and sampling framework of the study area." width="900">
+  alt="Fig. 1. Multi-scale geological and sampling framework of the study area." width="900">
 
 
 
