@@ -96,7 +96,6 @@ If you use this work, please cite the original publication:
 **👥 Authors**: Abu Reza Md Towfiqul Islam, Memet Varol, Javed Mallick, **Md. Abdullah-Al Mamun**, Md. Yousuf Mia, Md. Abu Bakar Siddique, **Md. Saiful Islam**, **Mst. Nazneen Aktar**. 
 
 ### Abstract
-
 We integrate traditional statistics (PCA, PCoA) with machine-learning tools (Self-Organizing Maps, Conditional Inference Trees, Ridge Regression, SHAP) to trace sources of heavy metal(oid)s (As, Pb, Zn, Cd, Cu, Ni, Cr, Mn, Fe, U) in coastal soils along the northeast Bay of Bengal. Several metals (Pb, Cd, Mn, As) exceed average shale values, with clear spatial patterns separating industrial/shipbreaking hotspots from geogenic backgrounds. Ridge models achieve high predictive accuracy and SHAP explains the controlling roles of soil pH, texture (sand/silt/clay), elevation, and organic matter. Findings support targeted pollution control and sustainable coastal management. 
 
 ### ✨ Key Highlights
