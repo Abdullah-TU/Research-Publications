@@ -147,7 +147,6 @@ I removed “in press,” updated the DOI to the **real 2026 MPB citation**, and
 * **PCA** indicated that natural mineralogical sources are the dominant controls on radionuclide enrichment.
 * **Probabilistic risk modeling** showed radiological indices exceeding international safety limits by **8–23×**.
 * **²³²Th (75%)** and **²²⁶Ra (24%)** were identified as the major contributors to total radiological risk.
-
 ---
 
 ## 📚 Citation
