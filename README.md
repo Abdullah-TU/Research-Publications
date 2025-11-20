@@ -41,7 +41,6 @@ If you use any part of this research, please cite:
 
 ## Graphical abstract
 ![Grahical_Abstract_PO4](https://github.com/user-attachments/assets/eca13f50-b547-49fe-9639-72c03b784096)
-
 -----
 
 ## 2.  Optimizing coastal groundwater quality predictions: A novel data mining framework with cross-validation, bootstrapping, and entropy analysis
