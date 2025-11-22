@@ -22,17 +22,7 @@ The groundwater (GW) resource plays a central role in securing water supply in t
 - A dataset of 15 hydrochemical parameters from 380 wells was presented.
 - SOM and multicollinearity testing enhanced ML model performance in coastal aquifers.
 - CatBoost combined with geostatistics and SOM predicted PO43− with high accuracy (R2 = 0.99).
-- **Significant Predictors**: Na⁺, K⁺, and Mg²⁺ were the most influential factors.
-
-## Dataset Description
-The dataset consists of groundwater samples from southern Bangladesh. Key parameters include:
-- **Input Features**: Depth, Temperature, pH, Salinity, Ca²⁺, Mg²⁺, Na⁺, K⁺, HCO₃⁻, NO₃⁻, SO₄²⁻, F⁻.
-- **Target Variable**: PO₄³⁻ (mg/L).
-
-- ## Results
-- **CatBoost Model**: Best accuracy (R² = 0.99, RMSE = 0.001).
-- **Geostatistical Analysis**: Na⁺, K⁺ showed high spatial autocorrelation influencing PO₄³⁻ levels.
-- **SOM Analysis**: Revealed distinct clusters of hydrochemical patterns.
+- Na+ and K+ showed high spatial autocorrelation, impacting PO43− prediction.
 
 ## Citation  
 If you use any part of this research, please cite:
