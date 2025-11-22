@@ -20,8 +20,8 @@ The groundwater (GW) resource plays a central role in securing water supply in t
 
 ### Key Highlights:
 - A dataset of 15 hydrochemical parameters from 380 wells was presented.
-- **Techniques**: Geostatistics, SOM, and machine learning models.
-- **Performance**: CatBoost achieved R² of 0.99 and RMSE of 0.001.
+- SOM and multicollinearity testing enhanced ML model performance in coastal aquifers.
+- CatBoost combined with geostatistics and SOM predicted PO43− with high accuracy (R2 = 0.99).
 - **Significant Predictors**: Na⁺, K⁺, and Mg²⁺ were the most influential factors.
 
 ## Dataset Description
