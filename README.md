@@ -31,9 +31,7 @@ If you use any part of this research, please cite:
 
 ## 2.  Optimizing coastal groundwater quality predictions: A novel data mining framework with cross-validation, bootstrapping, and entropy analysis
 
-🔗 **Publication Link**: [https://doi.org/10.1016/j.jconhyd.2024.104480](https://doi.org/10.1016/j.jconhyd.2024.104480)
-
-**👥 Authors**: Abu Reza Md Towfiqul Islam, Md. Abdullah-Al Mamun, Mehedi Hasan, Mst. Nazneen Aktar, Md Nashir Uddin, Md. Abu Bakar Siddique, Mohaiminul Haider Chowdhury, Md. Saiful Islam, A.B.M. Mainul Bari, Abubakr M. Idris, Venkatramanan Senapathi
+**Authors**: Abu Reza Md Towfiqul Islam, Md. Abdullah-Al Mamun, Mehedi Hasan, Mst. Nazneen Aktar, Md Nashir Uddin, Md. Abu Bakar Siddique, Mohaiminul Haider Chowdhury, Md. Saiful Islam, A.B.M. Mainul Bari, Abubakr M. Idris, Venkatramanan Senapathi
 
 ### Abstract
 
@@ -41,26 +39,10 @@ Investigating the potential of novel data mining algorithms (DMAs) for modeling 
 
 ### ✨ Key Highlights
 
-  - **🎯 Objective**: To develop a novel data mining framework to accurately predict groundwater quality in the coastal region of Bangladesh[cite: 6].
-  - **🛠️ Methods**: Employed advanced models including **Artificial Neural Networks (ANN)**, **Gaussian Process Regression (GPR)**, and **Bayesian Ridge Regression (BRR)**, enhanced with Optuna hyperparameter optimization[cite: 31, 32].
-  - **⚙️ Validation**: Utilized robust validation techniques, including **k-fold cross-validation (CV)** and **bootstrapping (B)**, to ensure model stability and reliability[cite: 33].
-  - **🚀 Top Performer**: The **ANN models** (both CV and B versions) demonstrated superior predictive accuracy, achieving an R² of up to **0.971** and an RMSE of **0.041** in the test phase[cite: 36].
-  - **🔍 Key Predictors**: Analysis revealed that **Sulfate** ($SO_{4}^{2-}$), **Chloride** (Cl⁻), and **Fluoride** (F⁻) were the most significant parameters influencing prediction accuracy[cite: 37].
------
-### 🗂️ Dataset Description
-
-The study was conducted in the coastal districts of Chittagong and Cox's Bazar, Bangladesh, using a comprehensive hydrogeochemical dataset[cite: 99].
-
-  - **Sampling**: Data was collected from **67 groundwater wells**, with a total of 134 samples taken across two campaigns[cite: 35, 184].
-  - **📈 Input Features**: 12 physicochemical parameters were measured, including pH, EC, TDS, $Ca^{2+}$, $Mg^{2+}$, $Na^{+}$, $K^{+}$, $HCO_{3}^{-}$, Cl⁻, $SO_{4}^{2-}$, $NO_{3}^{-}$, and F⁻[cite: 35].
-  - **🎯 Target Variable**: A normalized **Entropy Coastal Groundwater Quality Index (ECWQIn)** was calculated and used as the prediction target[cite: 34].
-
-### 📊 Key Results
-
-  - **🏆 Model Performance**: The **ANN model** consistently outperformed the GPR and BRR models, proving most effective for generalizing to new data and accurately mapping groundwater quality zones[cite: 40, 1433, 1434].
-  - **🌍 Spatial Analysis**: **Self-Organizing Maps (SOM)** and **Moran's I autocorrelation** successfully identified distinct spatial patterns and clustering of contaminants, particularly for $HCO_{3}^{-}$, $SO_{4}^{2-}$, and F⁻, which aids in locating pollution hotspots[cite: 36, 589].
-  - **🗺️ Water Quality Mapping**: The models generated detailed spatial distribution maps, revealing that the southeastern areas around Cox's Bazar suffer from the poorest water quality, likely due to urbanization and industrial pressures[cite: 1432].
------
+  - The models ANN (CV) and ANN (B) outperformed other data mining approaches.
+  - The normalized ECWQI was adopted to interpret coastal groundwater quality areas.
+  - SO42−, Cl−, and F− had a significant role in predictive accuracy.
+  - The Moran's I index for F−, and SO42− demonstrate strong spatial autocorrelation and imply clustering of similar origins.
 
 ### 📚 Citation
 
