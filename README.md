@@ -56,23 +56,24 @@ If you use any part of this research, please cite:
 
 ![Grahical Abstract, (coastal_water_qualityML) - final after review](https://github.com/user-attachments/assets/1543b729-6c2d-413d-aa55-9f12a57b3697)
 
+
 ## 3. Tracing source footprints of heavy metal(oid)s in coastal soils using traditional statistical techniques and machine learning data-driven models
 
-**Authors**: Abu Reza Md Towfiqul Islam, Memet Varol, Javed Mallick, **Md. Abdullah-Al Mamun**, Md. Yousuf Mia, Md. Abu Bakar Siddique, **Md. Saiful Islam**, **Mst. Nazneen Aktar**
+**Authors**: Abu Reza Md Towfiqul Islam, Memet Varol, Javed Mallick, **Md. Abdullah-Al Mamun**, Md. Yousuf Mia, Md. Abu Bakar Siddique, **Md Saiful Islam**, **Mst. Nazneen Aktar**
 
 ### Abstract
 
 <div align="justify">
-This study integrates traditional multivariate statistics (PCA, PCoA) with machine-learning tools (Self-Organizing Maps, Conditional Inference Trees, Ridge Regression, SHAP) to trace source footprints of heavy metal(oid)s (As, Pb, Zn, Cd, Cu, Ni, Cr, Mn, Fe, U) in coastal soils along the northeast Bay of Bengal. Several elements (Pb, Cd, Mn, As) exceed average shale/background values, revealing clear spatial contrasts between industrial/shipbreaking hotspots and geogenic zones. Ridge Regression achieved high predictive performance, while SHAP analysis highlighted soil pH, particle size distribution (silt, clay), organic matter, and elevation as dominant drivers. PCoA explained 75.46% of spatial variation in metal profiles. Findings support evidence-based pollution control and sustainable coastal soil management.
+Understanding the source tracing of heavy metal(oid)s (HMs) in coastal soils is essential for effective pollution control. This study used traditional statistical techniques (PCA, PCoA) together with machine-learning models, including Self-Organizing Maps (SOM), Conditional Inference Trees (CIT), Ridge Regression (RR), and SHAP, to detect and trace HM sources along the northeast coast of Bangladesh. Concentrations of Pb, Cd, Mn, and As exceeded average shale values. Clear spatial patterns were observed, with PCoA explaining 75.46% of the total spatial variation. SOM indicated natural sources for As, Ni, Fe, and Mn, and shipbreaking industry sources for Cu, Zn, and Pb. CIT showed the influence of soil silt on Fe, Cd, and As, and the impact of soil pH on Mn and Ni, suggesting geological controls. RR modeling showed high predictive performance for Pb, Zn, and Mn, while SHAP highlighted soil pH, silt, and organic matter as key contributors to HM accumulation. This integrated approach provides a strong foundation for controlling HM contamination in coastal regions.
 </div>
 
 ### ✨ Key Highlights
 
-* Geological processes based on CIT controlled Mn and Ni levels.
-* SOM indicated that Cu, Zn, and Pb were linked to shipbreaking activity.
-* pH, silt, and organic matter contributed to heavy metal(oid) accumulation.
-* Ridge Regression provided high predictive performance for Pb, Zn, and Mn.
 * PCoA explained **75.46%** of total spatial variation.
+* Geological processes based on CIT controlled Mn and Ni levels.
+* SOM indicated Cu, Zn, and Pb were linked to shipbreaking activity.
+* Soil pH, silt, and organic matter contributed to HM accumulation.
+* Ridge Regression showed high predictive performance for Pb, Zn, and Mn.
 
 ## Citation
 
@@ -80,35 +81,30 @@ If you use any part of this research, please cite:
 
 > Islam, A. R. M. T., Varol, M., Mallick, J., **Mamun, M. A.-A.**, Mia, M. Y., Siddique, M. A. B., **Islam, M. S.**, **Aktar, M. N.** (2026). Tracing source footprints of heavy metal(oid)s in coastal soils using traditional statistical techniques and machine learning data-driven models. *Marine Pollution Bulletin*, 222, 118701. [https://doi.org/10.1016/j.marpolbul.2025.118701](https://doi.org/10.1016/j.marpolbul.2025.118701)
 
-
+---
 
 ## 4. First probabilistic radiological risk appraisal of Bay of Bengal beach sands: Explicit spatial hot-spot analysis
 
-**Authors:** Jahanara Habib Zesha, **Md. Abdullah-Al Mamun**, Abu Reza Md. Towfiqul Islam, Md. Ahosan Habib, Rahat Khan
+**Authors**: Jahanara Habib Zesha, **Md. Abdullah-Al Mamun**, Abu Reza Md Towfiqul Islam, Md. Ahosan Habib, Rahat Khan
 
-**Status:** Published (2026). DOI: [https://doi.org/10.1016/j.marpolbul.2025.118966](https://doi.org/10.1016/j.marpolbul.2025.118966)
+### Abstract
 
-### **Key highlights**
+<div align="justify">
+This study presents the first integrated probabilistic–spatial framework for assessing radiological risk in the Bay of Bengal (BoB) beach sands. Twenty-two surface sediment samples from Darianagar, Himchari, and Nidania beaches were analyzed using HPGe gamma spectrometry. Activity concentrations of <sup>226</sup>Ra and <sup>232</sup>Th exceeded global averages by factors of 2.2 and 4.1, respectively. Principal component analysis (PCA) identified natural mineralogical controls, primarily monazite and K-feldspar. Monte Carlo simulations revealed 95th-percentile radiological indices (Raeq, D<sub>out</sub>, ELCR) exceeding international safety thresholds by 8–23×. All radionuclides followed lognormal distributions, indicating strong spatial heterogeneity. Sensitivity analysis showed <sup>232</sup>Th (~75%) and <sup>226</sup>Ra (~24%) as the dominant contributors to radiological risk. GIS-based spatial modeling delineated localized high-risk hotspots requiring restricted access, hazard signage, and periodic monitoring. This framework supports sustainable coastal radiation surveillance and evidence-based regulatory practices.
+</div>
 
-* Developed the first integrated **PCA–GIS–Monte Carlo** framework to assess radiological risk in Bay of Bengal (BoB) beach sands.
-* Activity concentrations of **²²⁶Ra** and **²³²Th** exceeded global averages by **2.2×** and **4.1×**, respectively.
-* **PCA** indicated that natural mineralogical sources are the dominant controls on radionuclide enrichment.
-* **Probabilistic risk modeling** showed radiological indices exceeding international safety limits by **8–23×**.
-* **²³²Th (75%)** and **²²⁶Ra (24%)** were identified as the major contributors to total radiological risk.
----
-## 📚 Citation
+### ✨ Key Highlights
 
-Zesha, J. H., Mamun, M. A., Islam, A. R. M. T., Habib, M. A., & Khan, R. (2026).
-*First probabilistic radiological risk appraisal of Bay of Bengal beach sands: Explicit spatial hot-spot analysis.*
-**Marine Pollution Bulletin, 223**, 118966. [https://doi.org/10.1016/j.marpolbul.2025.118966](https://doi.org/10.1016/j.marpolbul.2025.118966)
+* First integrated **PCA–GIS–Monte Carlo** radiological risk assessment framework for BoB beach sands.
+* <sup>226</sup>Ra and <sup>232</sup>Th exceeded global averages by **2.2×** and **4.1×**.
+* PCA identified natural mineralogical sources as dominant radionuclide drivers.
+* Probabilistic modeling showed risk indices exceeding international limits by **8–23×**.
+* <sup>232</sup>Th (75%) and <sup>226</sup>Ra (24%) were the main contributors to radiological risk.
 
----
+## Citation
 
-## 🖼️ Fig. 1. Multi-scale geological and sampling framework of the study area
+If you use any part of this research, please cite:
 
-<img src="https://raw.githubusercontent.com/Abdullah-TU/Images-for-Other-Files/main/Fig.%201%20Final.jpg"
-  alt="Fig. 1. Multi-scale geological and sampling framework of the study area." width="900">
-
-
+> Zesha, J. H., **Mamun, M. A.**, Islam, A. R. M. T., Habib, M. A., & Khan, R. (2026). First probabilistic radiological risk appraisal of Bay of Bengal beach sands: Explicit spatial hot-spot analysis. *Marine Pollution Bulletin*, 223, 118966. [https://doi.org/10.1016/j.marpolbul.2025.118966](https://doi.org/10.1016/j.marpolbul.2025.118966)
 
 
