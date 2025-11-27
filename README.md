@@ -57,7 +57,7 @@ If you use any part of this research, please cite:
 ![Grahical Abstract, (coastal_water_qualityML) - final after review](https://github.com/user-attachments/assets/1543b729-6c2d-413d-aa55-9f12a57b3697)
 
 
-## 3. Tracing source footprints of heavy metal(oid)s in coastal soils using traditional statistical techniques and machine learning data-driven models
+# **3. Tracing source footprints of heavy metal(oid)s in coastal soils using traditional statistical techniques and machine learning data-driven models**
 
 **Authors**: Abu Reza Md Towfiqul Islam, Memet Varol, Javed Mallick, **Md. Abdullah-Al Mamun**, Md. Yousuf Mia, Md. Abu Bakar Siddique, **Md Saiful Islam**, **Mst. Nazneen Aktar**
 
@@ -77,34 +77,42 @@ Understanding the source tracing of heavy metal(oid)s (HMs) in coastal soils is 
 
 ## Citation
 
-If you use any part of this research, please cite:
-
 > Islam, A. R. M. T., Varol, M., Mallick, J., **Mamun, M. A.-A.**, Mia, M. Y., Siddique, M. A. B., **Islam, M. S.**, **Aktar, M. N.** (2026). Tracing source footprints of heavy metal(oid)s in coastal soils using traditional statistical techniques and machine learning data-driven models. *Marine Pollution Bulletin*, 222, 118701. [https://doi.org/10.1016/j.marpolbul.2025.118701](https://doi.org/10.1016/j.marpolbul.2025.118701)
 
 ---
 
-## 4. First probabilistic radiological risk appraisal of Bay of Bengal beach sands: Explicit spatial hot-spot analysis
+## 🖼️ SOM component planes and clustering for heavy metals in coastal regions, Bangladesh
+
+<img src="https://github.com/user-attachments/assets/a7eda584-ea12-494d-852d-19d6fdcef21f"
+alt="SOM component planes and clustering" width="900">
+
+---
+
+# **4. First probabilistic radiological risk appraisal of Bay of Bengal beach sands: Explicit spatial hot-spot analysis**
 
 **Authors**: Jahanara Habib Zesha, **Md. Abdullah-Al Mamun**, Abu Reza Md Towfiqul Islam, Md. Ahosan Habib, Rahat Khan
 
 ### Abstract
 
 <div align="justify">
-This study presents the first integrated probabilistic–spatial framework for assessing radiological risk in the Bay of Bengal (BoB) beach sands. Twenty-two surface sediment samples from Darianagar, Himchari, and Nidania beaches were analyzed using HPGe gamma spectrometry. Activity concentrations of <sup>226</sup>Ra and <sup>232</sup>Th exceeded global averages by factors of 2.2 and 4.1, respectively. Principal component analysis (PCA) identified natural mineralogical controls, primarily monazite and K-feldspar. Monte Carlo simulations revealed 95th-percentile radiological indices (Raeq, D<sub>out</sub>, ELCR) exceeding international safety thresholds by 8–23×. All radionuclides followed lognormal distributions, indicating strong spatial heterogeneity. Sensitivity analysis showed <sup>232</sup>Th (~75%) and <sup>226</sup>Ra (~24%) as the dominant contributors to radiological risk. GIS-based spatial modeling delineated localized high-risk hotspots requiring restricted access, hazard signage, and periodic monitoring. This framework supports sustainable coastal radiation surveillance and evidence-based regulatory practices.
+This study presents the first integrated probabilistic–spatial framework for assessing radiological risk in the Bay of Bengal (BoB) beach sands. Twenty-two surface sediment samples from Darianagar, Himchari, and Nidania beaches were analyzed using HPGe gamma spectrometry. Activity concentrations of <sup>226</sup>Ra and <sup>232</sup>Th exceeded global averages by factors of 2.2 and 4.1. PCA identified natural mineralogical controls. Monte Carlo simulations showed radiological indices exceeding international safety thresholds by 8–23×. Radionuclides followed lognormal distributions. Sensitivity analysis indicated <sup>232</sup>Th (~75%) and <sup>226</sup>Ra (~24%) as dominant contributors to total radiological risk. GIS-based spatial mapping revealed localized hotspots requiring restricted access, signage, and monitoring. This framework supports improved coastal radiation surveillance and evidence-based regulation.
 </div>
 
 ### ✨ Key Highlights
 
-* First integrated **PCA–GIS–Monte Carlo** radiological risk assessment framework for BoB beach sands.
+* First integrated **PCA–GIS–Monte Carlo** risk assessment framework.
 * <sup>226</sup>Ra and <sup>232</sup>Th exceeded global averages by **2.2×** and **4.1×**.
-* PCA identified natural mineralogical sources as dominant radionuclide drivers.
-* Probabilistic modeling showed risk indices exceeding international limits by **8–23×**.
-* <sup>232</sup>Th (75%) and <sup>226</sup>Ra (24%) were the main contributors to radiological risk.
+* PCA identified natural mineralogical controls as dominant radionuclide sources.
+* Probabilistic indices exceeded international limits by **8–23×**.
+* <sup>232</sup>Th (75%) and <sup>226</sup>Ra (24%) were the major contributors to radiological risk.
 
 ## Citation
 
-If you use any part of this research, please cite:
-
 > Zesha, J. H., **Mamun, M. A.**, Islam, A. R. M. T., Habib, M. A., & Khan, R. (2026). First probabilistic radiological risk appraisal of Bay of Bengal beach sands: Explicit spatial hot-spot analysis. *Marine Pollution Bulletin*, 223, 118966. [https://doi.org/10.1016/j.marpolbul.2025.118966](https://doi.org/10.1016/j.marpolbul.2025.118966)
 
+---
 
+## 🖼️ Fig. 1. Multi-scale geological and sampling framework of the study area
+
+<img src="https://raw.githubusercontent.com/Abdullah-TU/Images-for-Other-Files/main/Fig.%201%20Final.jpg"
+alt="Fig. 1. Multi-scale geological and sampling framework" width="900">
