@@ -63,23 +63,24 @@ If you use any part of this research, please cite:
 ### Abstract
 
 <div align="justify">
-This study integrates traditional multivariate statistics (PCA, PCoA) with machine-learning approaches (Self-Organizing Maps, Conditional Inference Trees, Ridge Regression, SHAP) to trace source footprints of heavy metal(oid)s (As, Pb, Zn, Cd, Cu, Ni, Cr, Mn, Fe, U) in coastal soils along the northeast Bay of Bengal. Several metals (Pb, Cd, Mn, As) exceed average shale/background values, with distinct spatial contrasts separating industrial/shipbreaking hotspots from geogenic zones. Ridge models achieved high predictive accuracy, and SHAP analysis identified soil pH, particle size distribution (sand–silt–clay), elevation, and organic matter as key drivers. Findings support improved pollution control and sustainable management in vulnerable coastal areas.
+This study integrates traditional multivariate statistics (PCA, PCoA) with machine-learning tools (Self-Organizing Maps, Conditional Inference Trees, Ridge Regression, SHAP) to trace source footprints of heavy metal(oid)s (As, Pb, Zn, Cd, Cu, Ni, Cr, Mn, Fe, U) in coastal soils along the northeast Bay of Bengal. Several elements (Pb, Cd, Mn, As) exceed average shale/background values, revealing clear spatial contrasts between industrial/shipbreaking hotspots and geogenic zones. Ridge Regression achieved high predictive performance, while SHAP analysis highlighted soil pH, particle size distribution (silt, clay), organic matter, and elevation as dominant drivers. PCoA explained 75.46% of spatial variation in metal profiles. Findings support evidence-based pollution control and sustainable coastal soil management.
 </div>
 
 ### ✨ Key Highlights
 
-* A coastal dataset of 78 soil samples from six islands/peninsulas (St. Martin’s, Matarbari, Kutubdia, Sonadia, Sandwip, Patenga).
-* Combined PCA, PCoA, SOM, CIT, Ridge Regression, SHAP, and GIS interpolation for source tracing.
-* Pb, Cd, Mn, and As exceed average shale values in several industrial/shipbreaking-influenced locations.
-* SOM and CIT distinguish anthropogenic signatures (Cu, Zn, Pb) from geogenic controls (As, Ni, Cr, Mn, Fe).
-* Ridge models show strong performance (e.g., Ni R² ≈ 0.998; Fe R² ≈ 0.995; Cd R² ≈ 0.977; Mn R² ≈ 0.898).
-* PCoA explains ~75.46% of spatial variation in heavy metal structure across the study region.
+* Geological processes based on CIT controlled Mn and Ni levels.
+* SOM indicated that Cu, Zn, and Pb were linked to shipbreaking activity.
+* pH, silt, and organic matter contributed to heavy metal(oid) accumulation.
+* Ridge Regression provided high predictive performance for Pb, Zn, and Mn.
+* PCoA explained **75.46%** of total spatial variation.
 
 ## Citation
 
 If you use any part of this research, please cite:
 
 > Islam, A. R. M. T., Varol, M., Mallick, J., **Mamun, M. A.-A.**, Mia, M. Y., Siddique, M. A. B., **Islam, M. S.**, **Aktar, M. N.** (2026). Tracing source footprints of heavy metal(oid)s in coastal soils using traditional statistical techniques and machine learning data-driven models. *Marine Pollution Bulletin*, 222, 118701. [https://doi.org/10.1016/j.marpolbul.2025.118701](https://doi.org/10.1016/j.marpolbul.2025.118701)
+
+
 
 ## 4. First probabilistic radiological risk appraisal of Bay of Bengal beach sands: Explicit spatial hot-spot analysis
 
