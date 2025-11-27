@@ -64,7 +64,7 @@ Understanding the source tracing of heavy metal(oid)s (HMs) in coastal soils is 
 ## 🖼️ SOM component planes and clustering for heavy metals in coastal regions, Bangladesh
 
 <img src="https://github.com/user-attachments/assets/a7eda584-ea12-494d-852d-19d6fdcef21f"
-alt="SOM component planes and clustering" width="900">
+alt="SOM component planes and clustering" width="600">
 
 ---
 
