@@ -9,7 +9,7 @@
 | **Marine Pollution Bulletin (MPB)**           | Q1                         |       4.9 (2024 JCR) |       9.7 | **![2](https://img.shields.io/badge/2-8a2be2?style=flat\&color=8a2be2\&labelColor=8a2be2\&logoColor=white)** |
 
 # Publications
-
+ 
 ## 1. First probabilistic radiological risk appraisal of Bay of Bengal beach sands: Explicit spatial hot-spot analysis
 
 **Authors**: Jahanara Habib Zesha, **Md. Abdullah-Al Mamun**, Abu Reza Md Towfiqul Islam, Md. Ahosan Habib, Rahat Khan
