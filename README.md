@@ -99,7 +99,7 @@ If you use any part of this research, please cite:
 
 ## 4. Predicting groundwater phosphate levels in coastal multi-aquifers: A geostatistical and data-driven approach
 
-**Authors**: Md. Abdullah-Al Mamun, Abu Reza Md Towfiqul Islam, Mst. Nazneen Aktar, Md Nashir Uddin, Md. Saiful Islam, Subodh Chandra Pal, Aznarul Islam, A.B.M. Mainul Bari, Abubakr M. Idris, Venkatramanan Senapathi
+**Authors**: **Md. Abdullah-Al Mamun**, Abu Reza Md Towfiqul Islam, Mst. Nazneen Aktar, Md Nashir Uddin, Md. Saiful Islam, Subodh Chandra Pal, Aznarul Islam, A.B.M. Mainul Bari, Abubakr M. Idris, Venkatramanan Senapathi
 
 ### Abstract
 
@@ -118,7 +118,7 @@ The groundwater (GW) resource plays a central role in securing water supply in t
 
 If you use any part of this research, please cite:
 
-> Mamun, M. A.-A., Islam, A. R. M. T., Aktar, M. N., Uddin, M. N., Islam, M. S., Pal, S. C., Islam, A., Bari, A. B. M. M., Idris, A. M., & Senapathi, V. (2024). Predicting groundwater phosphate levels in coastal multi-aquifers: A geostatistical and data-driven approach. *Science of The Total Environment*, 953, 176024. [https://doi.org/10.1016/j.scitotenv.2024.176024](https://doi.org/10.1016/j.scitotenv.2024.176024)
+> **Mamun, M. A.-A.**, Islam, A. R. M. T., Aktar, M. N., Uddin, M. N., Islam, M. S., Pal, S. C., Islam, A., Bari, A. B. M. M., Idris, A. M., & Senapathi, V. (2024). Predicting groundwater phosphate levels in coastal multi-aquifers: A geostatistical and data-driven approach. *Science of The Total Environment*, 953, 176024. [https://doi.org/10.1016/j.scitotenv.2024.176024](https://doi.org/10.1016/j.scitotenv.2024.176024)
 
 ## Graphical abstract
 
