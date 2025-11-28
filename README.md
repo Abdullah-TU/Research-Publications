@@ -41,7 +41,7 @@ alt="Fig. 1. Multi-scale geological and sampling framework" width="900">
 
 ## 2. Tracing source footprints of heavy metal(oid)s in coastal soils using traditional statistical techniques and machine learning data-driven models
 
-**Authors**: Abu Reza Md Towfiqul Islam, Memet Varol, Javed Mallick, **Md. Abdullah-Al Mamun**, Md. Yousuf Mia, Md. Abu Bakar Siddique, **Md Saiful Islam**, **Mst. Nazneen Aktar**
+**Authors**: Abu Reza Md Towfiqul Islam, Memet Varol, Javed Mallick, **Md. Abdullah-Al Mamun**, Md. Yousuf Mia, Md. Abu Bakar Siddique, Md Saiful Islam, Mst. Nazneen Aktar
 
 ### Abstract
 
