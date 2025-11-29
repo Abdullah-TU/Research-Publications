@@ -86,9 +86,6 @@ Investigating the potential of novel data mining algorithms (DMAs) for modeling 
 * The Moran's I index for F<sup>−</sup> and SO<sub>4</sub><sup>2−</sup> demonstrates strong spatial autocorrelation and implies clustering of similar origins.
 
 ## Citation
-
-If you use any part of this research, please cite:
-
 > Islam, A. R. M. T., **Mamun, M. A.-A.**, Hasan, M., Aktar, M. N., Uddin, M. N., Siddique, M. A. B., Chowdhury, M. H., Islam, M. S., Bari, A. B. M. M., Idris, A. M., & Senapathi, V. (2025). Optimizing coastal groundwater quality predictions: A novel data mining framework with cross-validation, bootstrapping, and entropy analysis. *Journal of Contaminant Hydrology, 269*, 104480. [https://doi.org/10.1016/j.jconhyd.2024.104480](https://doi.org/10.1016/j.jconhyd.2024.104480)
 
 ## 🖼️ Graphical abstract
