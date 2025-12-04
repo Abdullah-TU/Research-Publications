@@ -91,7 +91,6 @@ Investigating the potential of novel data mining algorithms (DMAs) for modeling 
 
 ![Grahical Abstract, (coastal\_water\_qualityML) - final after review](https://github.com/user-attachments/assets/1543b729-6c2d-413d-aa55-9f12a57b3697)
 ---
-
 ## 4. Predicting groundwater phosphate levels in coastal multi-aquifers: A geostatistical and data-driven approach
 
 **Authors**: **Md. Abdullah-Al Mamun**, Abu Reza Md Towfiqul Islam, Mst. Nazneen Aktar, Md Nashir Uddin, Md. Saiful Islam, Subodh Chandra Pal, Aznarul Islam, A.B.M. Mainul Bari, Abubakr M. Idris, Venkatramanan Senapathi
