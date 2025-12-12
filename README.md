@@ -9,11 +9,6 @@
 | <div align="center"><img src="https://ars.els-cdn.com/content/image/X0025326X.jpg" alt="Marine Pollution Bulletin logo" width="70" /><br><strong>Marine Pollution Bulletin (MPB)</strong></div> | <div align="center"><img src="https://raw.githubusercontent.com/Abdullah-TU/Images-for-Other-Files/main/Elsevier_logo_2019.svg" alt="Elsevier logo" width="55" /><br>Elsevier</div> | Q1 | 4.9 (2024 JCR) | 9.7 | <div align="center"><img src="https://raw.githubusercontent.com/Abdullah-TU/Images-for-Other-Files/main/2_circled.png" alt="2 papers" width="40" /></div> |
 
 # Publications
- Below is a **GitHub-ready Markdown entry**, fully aligned with the structure and style you shared. You can paste this directly into your README or Publications page and then add figures if you wish.
-
----
-
-# Publications
 
 ## 1. Hybrid data-driven framework for interpretable prediction of nitrate and sulfate risks in coastal aquifers
 
@@ -38,7 +33,7 @@ Coastal aquifers in southern Bangladesh are increasingly threatened by groundwat
 > Mamun, M. A., Aktar, M. N., Uddin, M. N., Chowdhury, M. H., Islam, M. S., Rahman, M. S., Uddin, M. R., Hossain, M. J., Zahid, A., Senapathi, V., & Islam, A. R. M. T. (2026). Hybrid data-driven framework for interpretable prediction of nitrate and sulfate risks in coastal aquifers. *Science of the Total Environment*, 1011, 181190. [https://doi.org/10.1016/j.scitotenv.2025.181190](https://doi.org/10.1016/j.scitotenv.2025.181190)
 
 
-## 1. First probabilistic radiological risk appraisal of Bay of Bengal beach sands: Explicit spatial hot-spot analysis
+## 2. First probabilistic radiological risk appraisal of Bay of Bengal beach sands: Explicit spatial hot-spot analysis
 
 **Authors**: Jahanara Habib Zesha, **Md. Abdullah-Al Mamun**, Abu Reza Md Towfiqul Islam, Md. Ahosan Habib, Rahat Khan
 
@@ -67,7 +62,7 @@ alt="Fig. 1. Multi-scale geological and sampling framework" width="900">
 
 ---
 
-## 2. Tracing source footprints of heavy metal(oid)s in coastal soils using traditional statistical techniques and machine learning data-driven models
+## 3. Tracing source footprints of heavy metal(oid)s in coastal soils using traditional statistical techniques and machine learning data-driven models
 
 **Authors**: Abu Reza Md Towfiqul Islam, Memet Varol, Javed Mallick, **Md. Abdullah-Al Mamun**, Md. Yousuf Mia, Md. Abu Bakar Siddique, Md Saiful Islam, Mst. Nazneen Aktar
 
@@ -95,7 +90,7 @@ Understanding the source tracing of heavy metal(oid)s (HMs) in coastal soils is 
 alt="SOM component planes and clustering" width="600">
 ---
 
-## 3.  Optimizing coastal groundwater quality predictions: A novel data mining framework with cross-validation, bootstrapping, and entropy analysis
+## 4.  Optimizing coastal groundwater quality predictions: A novel data mining framework with cross-validation, bootstrapping, and entropy analysis
 
 **Authors**: Abu Reza Md Towfiqul Islam, **Md. Abdullah-Al Mamun**, Mehedi Hasan, Mst. Nazneen Aktar, Md Nashir Uddin, Md. Abu Bakar Siddique, Mohaiminul Haider Chowdhury, Md. Saiful Islam, A.B.M. Mainul Bari, Abubakr M. Idris, Venkatramanan Senapathi
 
@@ -119,7 +114,7 @@ Investigating the potential of novel data mining algorithms (DMAs) for modeling 
 
 ![Grahical Abstract, (coastal\_water\_qualityML) - final after review](https://github.com/user-attachments/assets/1543b729-6c2d-413d-aa55-9f12a57b3697)
 ---
-## 4. Predicting groundwater phosphate levels in coastal multi-aquifers: A geostatistical and data-driven approach
+## 5. Predicting groundwater phosphate levels in coastal multi-aquifers: A geostatistical and data-driven approach
 
 **Authors**: **Md. Abdullah-Al Mamun**, Abu Reza Md Towfiqul Islam, Mst. Nazneen Aktar, Md Nashir Uddin, Md. Saiful Islam, Subodh Chandra Pal, Aznarul Islam, A.B.M. Mainul Bari, Abubakr M. Idris, Venkatramanan Senapathi
 
