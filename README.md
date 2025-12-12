@@ -9,7 +9,35 @@
 | <div align="center"><img src="https://ars.els-cdn.com/content/image/X0025326X.jpg" alt="Marine Pollution Bulletin logo" width="70" /><br><strong>Marine Pollution Bulletin (MPB)</strong></div> | <div align="center"><img src="https://raw.githubusercontent.com/Abdullah-TU/Images-for-Other-Files/main/Elsevier_logo_2019.svg" alt="Elsevier logo" width="55" /><br>Elsevier</div> | Q1 | 4.9 (2024 JCR) | 9.7 | <div align="center"><img src="https://raw.githubusercontent.com/Abdullah-TU/Images-for-Other-Files/main/2_circled.png" alt="2 papers" width="40" /></div> |
 
 # Publications
- 
+ Below is a **GitHub-ready Markdown entry**, fully aligned with the structure and style you shared. You can paste this directly into your README or Publications page and then add figures if you wish.
+
+---
+
+# Publications
+
+## 1. Hybrid data-driven framework for interpretable prediction of nitrate and sulfate risks in coastal aquifers
+
+**Authors**: **Md. Abdullah-Al Mamun**, Mst. Nazneen Aktar, Md. Nashir Uddin, Mohaiminul Haider Chowdhury, Md. Saiful Islam, M. Safiur Rahman, Md. Ripaj Uddin, Md. Jakir Hossain, Anwar Zahid, Venkatramanan Senapathi, Abu Reza Md. Towfiqul Islam
+
+### Abstract
+
+<div align="justify">
+Coastal aquifers in southern Bangladesh are increasingly threatened by groundwater overexploitation, saltwater intrusion, and diffuse contamination, posing serious risks to safe water supply. While previous studies have largely focused on salinity and overall water quality degradation, the spatial dynamics and controlling factors of nitrate (NO₃⁻) and sulfate (SO₄²⁻) contamination remain poorly constrained. This study proposes a hybrid, data-driven, and interpretable modeling framework integrating machine learning, statistical analysis, and spatial assessment to predict nitrate and sulfate risks in coastal aquifers. The framework identifies dominant hydrogeochemical drivers, evaluates spatial contamination hotspots, and improves interpretability of prediction outcomes to support groundwater risk management and evidence-based decision-making in vulnerable coastal environments.
+</div>
+
+### ✨ Key Highlights
+
+* Domestic wastewater and saltwater intrusion predominantly increased **SO₄²⁻** concentrations.
+* Agro-fertilizer application and salinity were major contributors to **NO₃⁻** contamination.
+* **CatBoost** showed optimal performance for sulfate prediction, while **ANN** performed best for nitrate.
+* **Ca²⁺, Na⁺, and K⁺** were the primary drivers of elevated SO₄²⁻ and NO₃⁻ levels.
+* Contamination hotspots were strongly influenced by **saltwater intrusion and agricultural practices**.
+
+## Citation
+
+> Mamun, M. A., Aktar, M. N., Uddin, M. N., Chowdhury, M. H., Islam, M. S., Rahman, M. S., Uddin, M. R., Hossain, M. J., Zahid, A., Senapathi, V., & Islam, A. R. M. T. (2026). Hybrid data-driven framework for interpretable prediction of nitrate and sulfate risks in coastal aquifers. *Science of the Total Environment*, 1011, 181190. [https://doi.org/10.1016/j.scitotenv.2025.181190](https://doi.org/10.1016/j.scitotenv.2025.181190)
+
+
 ## 1. First probabilistic radiological risk appraisal of Bay of Bengal beach sands: Explicit spatial hot-spot analysis
 
 **Authors**: Jahanara Habib Zesha, **Md. Abdullah-Al Mamun**, Abu Reza Md Towfiqul Islam, Md. Ahosan Habib, Rahat Khan
