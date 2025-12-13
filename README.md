@@ -32,6 +32,11 @@ Coastal aquifers in southern Bangladesh are increasingly threatened by groundwat
 
 > Mamun, M. A., Aktar, M. N., Uddin, M. N., Chowdhury, M. H., Islam, M. S., Rahman, M. S., Uddin, M. R., Hossain, M. J., Zahid, A., Senapathi, V., & Islam, A. R. M. T. (2026). Hybrid data-driven framework for interpretable prediction of nitrate and sulfate risks in coastal aquifers. *Science of the Total Environment*, 1011, 181190. [https://doi.org/10.1016/j.scitotenv.2025.181190](https://doi.org/10.1016/j.scitotenv.2025.181190)
 
+## 🖼️ Graphical Abstract
+
+<img src="https://raw.githubusercontent.com/Abdullah-TU/Images-for-Other-Files/main/Grahical-Abstract_SO4_NO3_final_3.jpg"
+alt="Graphical abstract: Interpretable prediction of nitrate and sulfate risks in coastal aquifers"
+width="900">
 
 ## 2. First probabilistic radiological risk appraisal of Bay of Bengal beach sands: Explicit spatial hot-spot analysis
 
