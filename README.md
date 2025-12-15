@@ -64,8 +64,6 @@ This study presents the first integrated probabilistic–spatial framework for a
 <img src="https://raw.githubusercontent.com/Abdullah-TU/Images-for-Other-Files/main/Fig.%201%20Final.jpg"
 alt="Fig. 1. Multi-scale geological and sampling framework" width="900">
 
----
-
 ## 3. Tracing source footprints of heavy metal(oid)s in coastal soils using traditional statistical techniques and machine learning data-driven models
 
 **Authors**: Abu Reza Md Towfiqul Islam, Memet Varol, Javed Mallick, **Md. Abdullah-Al Mamun**, Md. Yousuf Mia, Md. Abu Bakar Siddique, Md Saiful Islam, Mst. Nazneen Aktar
