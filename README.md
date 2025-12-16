@@ -69,7 +69,6 @@ alt="Fig. 1. Multi-scale geological and sampling framework" width="900">
 **Authors**: Abu Reza Md Towfiqul Islam, Memet Varol, Javed Mallick, **Md. Abdullah-Al Mamun**, Md. Yousuf Mia, Md. Abu Bakar Siddique, Md Saiful Islam, Mst. Nazneen Aktar
 
 ### Abstract
-
 <div align="justify">
 Understanding the source tracing of heavy metal(oid)s (HMs) in coastal soils is essential for effective pollution control. This study used traditional statistical techniques (PCA, PCoA) together with machine-learning models, including Self-Organizing Maps (SOM), Conditional Inference Trees (CIT), Ridge Regression (RR), and SHAP, to detect and trace HM sources along the northeast coast of Bangladesh. Concentrations of Pb, Cd, Mn, and As exceeded average shale values. Clear spatial patterns were observed, with PCoA explaining 75.46% of the total spatial variation. SOM indicated natural sources for As, Ni, Fe, and Mn, and shipbreaking industry sources for Cu, Zn, and Pb. CIT showed the influence of soil silt on Fe, Cd, and As, and the impact of soil pH on Mn and Ni, suggesting geological controls. RR modeling showed high predictive performance for Pb, Zn, and Mn, while SHAP highlighted soil pH, silt, and organic matter as key contributors to HM accumulation. This integrated approach provides a strong foundation for controlling HM contamination in coastal regions.
 </div>
