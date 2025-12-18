@@ -81,7 +81,6 @@ Understanding the source tracing of heavy metal(oid)s (HMs) in coastal soils is 
 * Ridge Regression showed high predictive performance for Pb, Zn, and Mn.
 
 ## Citation
-
 > Islam, A. R. M. T., Varol, M., Mallick, J., **Mamun, M. A.-A.**, Mia, M. Y., Siddique, M. A. B., **Islam, M. S.**, **Aktar, M. N.** (2026). Tracing source footprints of heavy metal(oid)s in coastal soils using traditional statistical techniques and machine learning data-driven models. *Marine Pollution Bulletin*, 222, 118701. [https://doi.org/10.1016/j.marpolbul.2025.118701](https://doi.org/10.1016/j.marpolbul.2025.118701)
 
 ## 🖼️ SOM component planes and clustering for heavy metals in coastal regions, Bangladesh
