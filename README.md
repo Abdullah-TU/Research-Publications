@@ -88,7 +88,6 @@ Understanding the source tracing of heavy metal(oid)s (HMs) in coastal soils is 
 <img src="https://github.com/user-attachments/assets/a7eda584-ea12-494d-852d-19d6fdcef21f"
 alt="SOM component planes and clustering" width="600">
 
-
 ## 4.  Optimizing coastal groundwater quality predictions: A novel data mining framework with cross-validation, bootstrapping, and entropy analysis
 
 **Authors**: Abu Reza Md Towfiqul Islam, **Md. Abdullah-Al Mamun**, Mehedi Hasan, Mst. Nazneen Aktar, Md Nashir Uddin, Md. Abu Bakar Siddique, Mohaiminul Haider Chowdhury, Md. Saiful Islam, A.B.M. Mainul Bari, Abubakr M. Idris, Venkatramanan Senapathi
