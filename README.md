@@ -1,6 +1,6 @@
 # Research
 
-## **Total number of publications**: 6
+## **Total number of publications**: 7
 
 | **Journal name** | **Publisher** | Journal category (SCImago) | Impact Factor (year) | CiteScore | **Number of papers published*** |
 | ---------------- | ------------ | :------------------------: | :------------------: | :-------: | :-----------------------------: |
