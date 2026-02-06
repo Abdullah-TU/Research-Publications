@@ -137,6 +137,32 @@ The groundwater (GW) resource plays a central role in securing water supply in t
 
 > **Mamun, M. A.-A.**, Islam, A. R. M. T., Aktar, M. N., Uddin, M. N., Islam, M. S., Pal, S. C., Islam, A., Bari, A. B. M. M., Idris, A. M., & Senapathi, V. (2024). Predicting groundwater phosphate levels in coastal multi-aquifers: A geostatistical and data-driven approach. *Science of The Total Environment*, 953, 176024. [https://doi.org/10.1016/j.scitotenv.2024.176024](https://doi.org/10.1016/j.scitotenv.2024.176024)
 
+
+
+## 6. Explainable and physics-informed machine learning for seasonal water quality prediction in the monsoon-driven Padma River Basin, Bangladesh
+
+**Authors**: Abu Reza Md. Towfiqul Islam, **Md. Abdullah-Al Mamun**, Md. Nashir Uddin, Sheikh Fahim Faysal Sowrav, M. Nur E. Alam, Shahidur R. Khan, Mohaiminul Haider Chowdhury, Tasrina Rabia Choudhury
+
+### Abstract
+
+<div align="justify">
+River water quality in monsoon-driven subtropical basins exhibits strong seasonal variability governed by hydroclimatic forcing and increasing anthropogenic pressure, complicating reliable assessment and management. This study presents the first integrated explainable and physics-informed artificial intelligence framework combining machine learning (ML), deep learning (DL), and Physics-Informed Neural Networks (PINNs) to predict, interpret, and spatially characterize seasonal water quality dynamics in the Padma River Basin, Bangladesh. Using 44 monitoring sites sampled during winter and monsoon seasons, the framework integrates Water Quality Index (WQI) assessment, explainable AI (SHAP and game-theory attribution), probabilistic uncertainty analysis, and spatial autocorrelation. Results show that seasonal variability dominates over spatial variability, with winter low-flow conditions intensifying solute concentrations and localized degradation, while monsoon discharge promotes basin-wide dilution and recovery. PINN-based data augmentation improves model generalization under limited sampling, and explainable modeling identifies nitrate, dissolved oxygen, pH, and suspended solids as key seasonal drivers. The proposed framework enhances predictive reliability, interpretability, and decision relevance, offering a transferable approach for uncertainty-aware water quality assessment in monsoon-affected, data-limited river basins.
+</div>
+
+### ✨ Key Highlights
+
+* Seasonal variability dominated water quality dynamics (**p < 0.0001**).
+* **DNN** performed best in winter (R² ≈ 0.98), while **Ridge Regression and Voting Ensemble** were more robust during monsoon.
+* **NO₃⁻** emerged as the dominant contaminant, with episodic exceedance of WHO limits.
+* **PINN-based data augmentation** improved prediction stability under limited sampling.
+* **SHAP and game-theory analysis** enabled transparent identification of season-specific pollution drivers.
+* Spatial analysis revealed **localized winter degradation hotspots** and **widespread monsoon recovery**.
+
+## Citation
+
+> Islam, A. R. M. T., **Mamun, M. A.-A.**, Uddin, M. N., Sowrav, S. F. F., Alam, M. N. E., Khan, S. R., Chowdhury, M. H., & Choudhury, T. R. (2026). Explainable and physics-informed machine learning for seasonal water quality prediction in the monsoon-driven Padma River Basin, Bangladesh. *Environmental Geochemistry and Health, 48*, Article 140. https://doi.org/10.1007/s10653-026-03031-z
+
+
 ## Graphical abstract
 
 ![Grahical\_Abstract\_PO4](https://github.com/user-attachments/assets/eca13f50-b547-49fe-9639-72c03b784096)
