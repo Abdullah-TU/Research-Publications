@@ -164,5 +164,4 @@ River water quality in monsoon-driven subtropical basins exhibits strong seasona
 
 
 ## Graphical abstract
-
-![Grahical\_Abstract\_PO4](https://github.com/user-attachments/assets/eca13f50-b547-49fe-9639-72c03b784096)
+![Graphical Abstract, WQI Prediction](https://github.com/Abdullah-TU/Images-for-Other-Files/blob/main/Grahical%20Abstract%2C%20WQI%20Prediction.jpg)
