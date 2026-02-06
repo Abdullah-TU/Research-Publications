@@ -9,8 +9,7 @@
 | <div align="center"><img src="https://ars.els-cdn.com/content/image/X0025326X.jpg" alt="Marine Pollution Bulletin logo" width="70" /><br><strong>Marine Pollution Bulletin (MPB)</strong></div>                                                             | <div align="center"><img src="https://raw.githubusercontent.com/Abdullah-TU/Images-for-Other-Files/main/Elsevier_logo_2019.svg" alt="Elsevier logo" width="55" /><br>Elsevier</div> |             Q1             |    4.9 (2024 JCR)    |    9.7    | <div align="center"><img src="https://raw.githubusercontent.com/Abdullah-TU/Images-for-Other-Files/main/2_circled.png" alt="2 papers" width="40" /></div> |
 | <div align="center"><img src="https://media.springernature.com/w400/springer-static/cover-hires/journal/10653?as=webp" alt="Environmental Geochemistry and Health logo" width="90" /><br><strong>Environmental Geochemistry and Health (EGH)</strong></div> | <div align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiM8X1dU4JF9swo9VXewffa_YaI9pxjcvrWw&s" alt="Springer Nature logo" width="80" /><br>Springer Nature</div> | Q1 | 3.8 (2024 JCR) | 7.2 (2024) | <div align="center"><img src="https://raw.githubusercontent.com/Abdullah-TU/Images-for-Other-Files/main/1_circled.png" alt="1 paper" width="40" /></div> |
 
- 
- 
+  
 
 # Publications
 
