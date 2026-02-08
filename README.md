@@ -153,7 +153,7 @@ River water quality in monsoon-driven subtropical basins exhibits strong seasona
 * Seasonal variability dominated water quality dynamics (**p < 0.0001**).
 * **DNN** performed best in winter (R² ≈ 0.98), while **Ridge Regression and Voting Ensemble** were more robust during monsoon.
 * **NO₃⁻** emerged as the dominant contaminant, with episodic exceedance of WHO limits.
-* **PINN-based data augmentation** improved prediction stability under limited sampling.
+* **PINN-based data augmentation** improved prediction stability under limited sampling. 
 * **SHAP and game-theory analysis** enabled transparent identification of season-specific pollution drivers.
 * Spatial analysis revealed **localized winter degradation hotspots** and **widespread monsoon recovery**.
 
