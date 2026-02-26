@@ -43,7 +43,7 @@ Coastal aquifers in southern Bangladesh are increasingly threatened by groundwat
 ## 2. First probabilistic radiological risk appraisal of Bay of Bengal beach sands: Explicit spatial hot-spot analysis
 
 ## CRediT authorship contribution statement
-Jahanara Habib Zesha: Writing – original draft, Visualization, Investigation, Conceptualization. **Md. Abdullah-Al Mamun: Writing – review & editing, Software, Methodology, Formal analysis, Data curation.** **Abu Reza Md. Towfiqul Islam**: Writing – review & editing, Supervision, Project administration, Funding acquisition. **Md. Ahosan Habib**: Writing – review & editing, Validation, Resources, Formal analysis. **Rahat khan**: Writing – review & editing, Methodology, Investigation, Data curation.
+**Jahanara Habib Zesha**: Writing – original draft, Visualization, Investigation, Conceptualization. **Md. Abdullah-Al Mamun: Writing – review & editing, Software, Methodology, Formal analysis, Data curation.** **Abu Reza Md. Towfiqul Islam**: Writing – review & editing, Supervision, Project administration, Funding acquisition. **Md. Ahosan Habib**: Writing – review & editing, Validation, Resources, Formal analysis. **Rahat khan**: Writing – review & editing, Methodology, Investigation, Data curation.
 
 ### Abstract
 
