@@ -121,7 +121,8 @@ Investigating the potential of novel data mining algorithms (DMAs) for modeling 
 ---
 ## 5. Predicting groundwater phosphate levels in coastal multi-aquifers: A geostatistical and data-driven approach
 
-**Authors**: **Md. Abdullah-Al Mamun**, Abu Reza Md Towfiqul Islam, Mst. Nazneen Aktar, Md Nashir Uddin, Md. Saiful Islam, Subodh Chandra Pal, Aznarul Islam, A.B.M. Mainul Bari, Abubakr M. Idris, Venkatramanan Senapathi
+## CRediT authorship contribution statement
+**Md. Abdullah-Al Mamun**: **Writing – original draft, Software, Methodology, Formal analysis.** **Abu Reza Md Towfiqul Islam**: Writing – review & editing, Supervision, Conceptualization. **Mst. Nazneen Aktar**: Resources, Formal analysis, Data curation. **Md Nashir Uddin**: Writing – review & editing, Validation, Formal analysis, Data curation. **Md. Saiful Islam**: Writing – review & editing, Validation, Investigation. **Subodh Chandra Pal**: Writing – review & editing, Methodology, Formal analysis, Data curation. 
 
 ### Abstract
 
