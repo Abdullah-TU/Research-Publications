@@ -15,7 +15,8 @@
 
 ## 1. Hybrid data-driven framework for interpretable prediction of nitrate and sulfate risks in coastal aquifers
 
-**Authors**: **Md. Abdullah-Al Mamun**, Mst. Nazneen Aktar, Md. Nashir Uddin, Mohaiminul Haider Chowdhury, Md. Saiful Islam, M. Safiur Rahman, Md. Ripaj Uddin, Md. Jakir Hossain, Anwar Zahid, Venkatramanan Senapathi, Abu Reza Md. Towfiqul Islam
+**CRediT authorship contribution statement**
+**Md. Abdullah-Al Mamun**: Writing – original draft, Visualization, Software, Formal analysis, Conceptualization. Mst. Nazneen Aktar: Writing – review & editing, Validation, Data curation. Md Nashir Uddin: Writing – review & editing, Resources, Investigation, Data curation. Mohaiminul Haider Chowdhury: Writing – review & editing, Validation, Formal analysis, Data curation. Md. Saiful Islam: Writing – review & editing, Methodology, Investigation. M. Safiur Rahman: Writing – review & editing,
 
 ### Abstract
 
