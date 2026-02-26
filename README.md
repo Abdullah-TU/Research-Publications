@@ -16,7 +16,7 @@
 ## 1. Hybrid data-driven framework for interpretable prediction of nitrate and sulfate risks in coastal aquifers
 
 ## CRediT authorship contribution statement
-**Md. Abdullah-Al Mamun**: **Writing – original draft, Visualization, Software, Formal analysis, Conceptualization.** **Mst. Nazneen Aktar**: Writing – review & editing, Validation, Data curation. **Md Nashir Uddin**: Writing – review & editing, Resources, Investigation, Data curation. **Mohaiminul Haider Chowdhury**: Writing – review & editing, Validation, Formal analysis, Data curation. **Md. Saiful Islam**: Writing – review & editing, Methodology, Investigation. **M. Safiur Rahman**: Writing – review & editing,
+**Md. Abdullah-Al Mamun**: **Writing – original draft, Visualization, Software, Formal analysis, Conceptualization.** Mst. Nazneen Aktar: Writing – review & editing, Validation, Data curation. Md Nashir Uddin: Writing – review & editing, Resources, Investigation, Data curation. Mohaiminul Haider Chowdhury**: Writing – review & editing, Validation, Formal analysis, Data curation. Md. Saiful Islam: Writing – review & editing, Methodology, Investigation. M. Safiur Rahman: Writing – review & editing,
 
 ### Abstract
 
@@ -44,7 +44,7 @@ Coastal aquifers in southern Bangladesh are increasingly threatened by groundwat
 
 ## CRediT authorship contribution statement
 
-**Jahanara Habib Zesha**: Writing – original draft, Visualization, Investigation, Conceptualization. **![Author](https://img.shields.io/badge/Author-Md.%20Abdullah--Al%20Mamun-blue): Writing – review & editing, Software, Methodology, Formal analysis, Data curation.** **Abu Reza Md. Towfiqul Islam**: Writing – review & editing, Supervision, Project administration, Funding acquisition. **Md. Ahosan Habib**: Writing – review & editing, Validation, Resources, Formal analysis. **Rahat khan**: Writing – review & editing, Methodology, Investigation, Data curation.
+Jahanara Habib Zesha: Writing – original draft, Visualization, Investigation, Conceptualization. **Md. Abdullah-Al Mamun**: Writing – review & editing, Software, Methodology, Formal analysis, Data curation.** Abu Reza Md. Towfiqul Islam: Writing – review & editing, Supervision, Project administration, Funding acquisition. Md. Ahosan Habib: Writing – review & editing, Validation, Resources, Formal analysis. Rahat khan: Writing – review & editing, Methodology, Investigation, Data curation.
 
 ### Abstract
 
@@ -72,7 +72,7 @@ alt="Fig. 1. Multi-scale geological and sampling framework" width="900">
 ## 3. Tracing source footprints of heavy metal(oid)s in coastal soils using traditional statistical techniques and machine learning data-driven models
 
 ## CRediT authorship contribution statement
-**Abu Reza Md Towfiqul Islam**: Writing – review & editing, Writing – original draft, Supervision, Conceptualization. **Memet Varol**: Writing – review & editing, Writing – original draft. **Javed Mallick**: Writing – review & editing, Writing – original draft. **Md. Abdullah-Al Mamun**: **Methodology, Investigation.** **Md. Yousuf Mia**: Methodology, Investigation. **Md. Abu Bakar Siddique**: Validation, Methodology, Data curation. **Md Saiful Isla**m: Validation, Methodology, Data curation. **Mst. Nazneen Aktar**: Validation, Methodology, Formal analysis.
+Abu Reza Md Towfiqul Islam: Writing – review & editing, Writing – original draft, Supervision, Conceptualization. Memet Varol: Writing – review & editing, Writing – original draft. Javed Mallick: Writing – review & editing, Writing – original draft. **Md. Abdullah-Al Mamun**: **Methodology, Investigation.** **Md. Yousuf Mia**: Methodology, Investigation. Md. Abu Bakar Siddique: Validation, Methodology, Data curation. Md Saiful Islam: Validation, Methodology, Data curation. Mst. Nazneen Aktar: Validation, Methodology, Formal analysis.
 
 ### Abstract
 <div align="justify">
@@ -98,7 +98,7 @@ alt="SOM component planes and clustering" width="600">
 ## 4.  Optimizing coastal groundwater quality predictions: A novel data mining framework with cross-validation, bootstrapping, and entropy analysis
 
 ## CRediT authorship contribution statement
-**Abu Reza Md. Towfiqul Islam**: Conceptualization, Writing – original draft preparation, Writing – reviewing & editing, Supervision. **Md. Abdullah-Al Mamun: Writing – review & editing, Methodology, Formal analysis, Data curation**. **Mehedi Hasan**: Writing – review & editing, Methodology, Formal analysis, Data curation. **Mst. Nazneen Aktar:** Writing – review & editing, Validation, Formal analysis, Data curation. **Md Nashir Uddin**: Writing – review & editing, Software, Investigation, Data curation. Md. Abu..
+Abu Reza Md. Towfiqul Islam: Conceptualization, Writing – original draft preparation, Writing – reviewing & editing, Supervision. **Md. Abdullah-Al Mamun: Writing – review & editing, Methodology, Formal analysis, Data curation**. Mehedi Hasan: Writing – review & editing, Methodology, Formal analysis, Data curation. Mst. Nazneen Aktar: Writing – review & editing, Validation, Formal analysis, Data curation. Md Nashir Uddin: Writing – review & editing, Software, Investigation, Data curation. Md. Abu..
 
 ### Abstract
 
@@ -123,7 +123,7 @@ Investigating the potential of novel data mining algorithms (DMAs) for modeling 
 ## 5. Predicting groundwater phosphate levels in coastal multi-aquifers: A geostatistical and data-driven approach
 
 ## CRediT authorship contribution statement
-**Md. Abdullah-Al Mamun**: **Writing – original draft, Software, Methodology, Formal analysis.** **Abu Reza Md Towfiqul Islam**: Writing – review & editing, Supervision, Conceptualization. **Mst. Nazneen Aktar**: Resources, Formal analysis, Data curation. **Md Nashir Uddin**: Writing – review & editing, Validation, Formal analysis, Data curation. **Md. Saiful Islam**: Writing – review & editing, Validation, Investigation. **Subodh Chandra Pal**: Writing – review & editing, Methodology, Formal analysis, Data curation. 
+**Md. Abdullah-Al Mamun**: **Writing – original draft, Software, Methodology, Formal analysis.** Abu Reza Md Towfiqul Islam: Writing – review & editing, Supervision, Conceptualization. Mst. Nazneen Aktar: Resources, Formal analysis, Data curation. Md Nashir Uddin: Writing – review & editing, Validation, Formal analysis, Data curation. Md. Saiful Islam: Writing – review & editing, Validation, Investigation. Subodh Chandra Pal: Writing – review & editing, Methodology, Formal analysis, Data curation. 
 
 ### Abstract
 
