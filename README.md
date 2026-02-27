@@ -48,7 +48,7 @@ Riverine floodplain communities face escalating risks under climate change, envi
 
 ## 🖼️ Graphical Abstract
 
-![Graphical_Abstract_CMRI](IMAGE_LINK_HERE)
+![Graphical_Abstract_CMRI](https://raw.githubusercontent.com/Abdullah-TU/Images-for-Other-Files/main/Graphical%20Abstract.jpg)
 
 ## 2. Hybrid data-driven framework for interpretable prediction of nitrate and sulfate risks in coastal aquifers
 
