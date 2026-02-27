@@ -12,8 +12,52 @@
   
 
 # Publications
+Here is your **new paper section written in EXACTLY the same README style** as your previous one — structure, tone, formatting, and GitHub-ready Markdown preserved.
 
-## 1. Hybrid data-driven framework for interpretable prediction of nitrate and sulfate risks in coastal aquifers
+---
+
+# Publications
+
+## 2. Living on the flood line: Constructing and validating a combined multidimensional resilience index for rural riverine floodplain communities
+
+### CRediT authorship contribution statement
+
+**Md. Abdullah-Al Mamun**: **Writing – review & editing, Visualization, Software, Investigation, Data curation.** Abu Reza Md. Towfiqul Islam: Writing – original draft, Supervision, Project administration, Conceptualization. Anjum Tasnuva: Writing – review & editing, Resources, Formal analysis. Mst. Nazneen Aktar: Writing – review & editing, Validation, Investigation. Manoranjan Mishra: Writing – review & editing, Resources. Abdullah Al Mamun: Writing – review & editing, Software, Formal analysis, Data curation. Md. Julfiker Moin: Writing – review & editing.
+
+---
+
+### Abstract
+
+<div align="justify">
+Riverine floodplain communities face escalating risks under climate change, environmental degradation, and socio-economic vulnerability. This study develops a rigorously validated framework for assessing community resilience by integrating multi-criteria decision analysis, principal axis factoring, Monte Carlo–based index construction, deep learning validation, and explainable artificial intelligence. Using 1000 georeferenced observations and 56 multidimensional indicators across socio-cultural, economic, infrastructural, institutional, hydraulic, and ecological domains for 49 unions in the Brahmaputra River Basin (Bangladesh), the study constructs a Combined Multidimensional Resilience Index (CMRI). The framework reveals pronounced spatial heterogeneity, with low resilience concentrated in northern floodplains and higher resilience in central and southern regions. Deep learning models demonstrate high predictive capability (AUC = 0.989), while SHAP analysis identifies hydraulic deficits, ecological degradation, and institutional weaknesses as primary drivers of vulnerability. The results highlight that strengthening ecological integrity, governance capacity, financial inclusion, and social resilience pathways is essential for sustainable flood-risk mitigation. This integrated, explainable, and scalable approach advances resilience assessment from descriptive diagnostics toward actionable decision-support for riverine floodplain management.
+</div>
+
+---
+
+### ✨ Key Highlights
+
+* A hybrid **MCDA–CMRI–AI framework** was developed for comprehensive flood-resilience assessment.
+* Deep learning model (**DR-DNN**) achieved very high predictive performance (AUC = 0.989).
+* SHAP analysis identified **hydraulic deficits, ecological degradation, and institutional weaknesses** as dominant vulnerability drivers.
+* High resilience is associated with **ecological integrity, governance capacity, financial inclusion, and reduced social vulnerability.**
+* The CMRI framework provides a scalable, decision-support tool for rural riverine floodplain communities.
+
+---
+
+## Citation
+
+> Islam, A. R. M. T., Mamun, M. A., Tasnuva, A., Aktar, M. N., Mishra, M., Mamun, A. A., & Moin, M. J. (2026). Living on the flood line: Constructing and validating a combined multidimensional resilience index for rural riverine floodplain communities. *Science of the Total Environment*, 1020, 181581. [https://doi.org/10.1016/j.scitotenv.2026.181581](https://doi.org/10.1016/j.scitotenv.2026.181581)
+
+---
+
+## 🖼️ Graphical Abstract
+
+![Graphical_Abstract_CMRI](IMAGE_LINK_HERE)
+
+
+
+
+## 2. Hybrid data-driven framework for interpretable prediction of nitrate and sulfate risks in coastal aquifers
 
 ### CRediT authorship contribution statement
 **Md. Abdullah-Al Mamun**: **Writing – original draft, Visualization, Software, Formal analysis, Conceptualization.** Mst. Nazneen Aktar: Writing – review & editing, Validation, Data curation. Md Nashir Uddin: Writing – review & editing, Resources, Investigation, Data curation. Mohaiminul Haider Chowdhury**: Writing – review & editing, Validation, Formal analysis, Data curation. Md. Saiful Islam: Writing – review & editing, Methodology, Investigation. M. Safiur Rahman: Writing – review & editing,
@@ -40,7 +84,7 @@ Coastal aquifers in southern Bangladesh are increasingly threatened by groundwat
 
 ![Grahical_Abstract_SO4_NO3](https://raw.githubusercontent.com/Abdullah-TU/Images-for-Other-Files/main/Grahical-Abstract_SO4_NO3_final_3.jpg)
 
-## 2. First probabilistic radiological risk appraisal of Bay of Bengal beach sands: Explicit spatial hot-spot analysis
+## 3. First probabilistic radiological risk appraisal of Bay of Bengal beach sands: Explicit spatial hot-spot analysis
 
 ### CRediT authorship contribution statement
 
@@ -69,7 +113,7 @@ This study presents the first integrated probabilistic–spatial framework for a
 <img src="https://raw.githubusercontent.com/Abdullah-TU/Images-for-Other-Files/main/Fig.%201%20Final.jpg"
 alt="Fig. 1. Multi-scale geological and sampling framework" width="900">
 
-## 3. Tracing source footprints of heavy metal(oid)s in coastal soils using traditional statistical techniques and machine learning data-driven models
+## 4. Tracing source footprints of heavy metal(oid)s in coastal soils using traditional statistical techniques and machine learning data-driven models
 
 ### CRediT authorship contribution statement
 Abu Reza Md Towfiqul Islam: Writing – review & editing, Writing – original draft, Supervision, Conceptualization. Memet Varol: Writing – review & editing, Writing – original draft. Javed Mallick: Writing – review & editing, Writing – original draft. **Md. Abdullah-Al Mamun**: **Methodology, Investigation.** **Md. Yousuf Mia**: Methodology, Investigation. Md. Abu Bakar Siddique: Validation, Methodology, Data curation. Md Saiful Islam: Validation, Methodology, Data curation. Mst. Nazneen Aktar: Validation, Methodology, Formal analysis.
@@ -95,7 +139,7 @@ Understanding the source tracing of heavy metal(oid)s (HMs) in coastal soils is 
 <img src="https://github.com/user-attachments/assets/a7eda584-ea12-494d-852d-19d6fdcef21f"
 alt="SOM component planes and clustering" width="600">
 
-## 4.  Optimizing coastal groundwater quality predictions: A novel data mining framework with cross-validation, bootstrapping, and entropy analysis
+## 5.  Optimizing coastal groundwater quality predictions: A novel data mining framework with cross-validation, bootstrapping, and entropy analysis
 
 ### CRediT authorship contribution statement
 Abu Reza Md. Towfiqul Islam: Conceptualization, Writing – original draft preparation, Writing – reviewing & editing, Supervision. **Md. Abdullah-Al Mamun: Writing – review & editing, Methodology, Formal analysis, Data curation**. Mehedi Hasan: Writing – review & editing, Methodology, Formal analysis, Data curation. Mst. Nazneen Aktar: Writing – review & editing, Validation, Formal analysis, Data curation. Md Nashir Uddin: Writing – review & editing, Software, Investigation, Data curation. Md. Abu..
@@ -120,7 +164,7 @@ Investigating the potential of novel data mining algorithms (DMAs) for modeling 
 
 ![Grahical Abstract, (coastal\_water\_qualityML) - final after review](https://github.com/user-attachments/assets/1543b729-6c2d-413d-aa55-9f12a57b3697)
 ---
-## 5. Predicting groundwater phosphate levels in coastal multi-aquifers: A geostatistical and data-driven approach
+## 6. Predicting groundwater phosphate levels in coastal multi-aquifers: A geostatistical and data-driven approach
 
 ### CRediT authorship contribution statement
 **Md. Abdullah-Al Mamun**: **Writing – original draft, Software, Methodology, Formal analysis.** Abu Reza Md Towfiqul Islam: Writing – review & editing, Supervision, Conceptualization. Mst. Nazneen Aktar: Resources, Formal analysis, Data curation. Md Nashir Uddin: Writing – review & editing, Validation, Formal analysis, Data curation. Md. Saiful Islam: Writing – review & editing, Validation, Investigation. Subodh Chandra Pal: Writing – review & editing, Methodology, Formal analysis, Data curation. 
@@ -144,7 +188,7 @@ The groundwater (GW) resource plays a central role in securing water supply in t
 
 
 
-## 6. Explainable and physics-informed machine learning for seasonal water quality prediction in the monsoon-driven Padma River Basin, Bangladesh
+## 7. Explainable and physics-informed machine learning for seasonal water quality prediction in the monsoon-driven Padma River Basin, Bangladesh
 
 **Authors**: Abu Reza Md. Towfiqul Islam, **Md. Abdullah-Al Mamun**, Md. Nashir Uddin, Sheikh Fahim Faysal Sowrav, M. Nur E. Alam, Shahidur R. Khan, Mohaiminul Haider Chowdhury, Tasrina Rabia Choudhury
 
