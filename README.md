@@ -18,7 +18,7 @@ Here is your **new paper section written in EXACTLY the same README style** as y
 
 # Publications
 
-## 2. Living on the flood line: Constructing and validating a combined multidimensional resilience index for rural riverine floodplain communities
+## 1. Living on the flood line: Constructing and validating a combined multidimensional resilience index for rural riverine floodplain communities
 
 ### CRediT authorship contribution statement
 
@@ -53,9 +53,6 @@ Riverine floodplain communities face escalating risks under climate change, envi
 ## 🖼️ Graphical Abstract
 
 ![Graphical_Abstract_CMRI](IMAGE_LINK_HERE)
-
-
-
 
 ## 2. Hybrid data-driven framework for interpretable prediction of nitrate and sulfate risks in coastal aquifers
 
