@@ -12,12 +12,8 @@
   
 
 # Publications
-Here is your **new paper section written in EXACTLY the same README style** as your previous one — structure, tone, formatting, and GitHub-ready Markdown preserved.
 
 ---
-
-# Publications
-
 ## 1. Living on the flood line: Constructing and validating a combined multidimensional resilience index for rural riverine floodplain communities
 
 ### CRediT authorship contribution statement
