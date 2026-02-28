@@ -16,7 +16,7 @@
 ---
 ## 1. Living on the flood line: Constructing and validating a combined multidimensional resilience index for rural riverine floodplain communities
 
-### CRediT authorship contribution statement
+### CRediT authorship contribution 
 
 **Md. Abdullah-Al Mamun**: **Writing – review & editing, Visualization, Software, Investigation, Data curation.**
 
@@ -52,8 +52,12 @@ Riverine floodplain communities face escalating risks under climate change, envi
 
 ## 2. Hybrid data-driven framework for interpretable prediction of nitrate and sulfate risks in coastal aquifers
 
-### CRediT authorship contribution statement
-**Md. Abdullah-Al Mamun**: **Writing – original draft, Visualization, Software, Formal analysis, Conceptualization.** Mst. Nazneen Aktar: Writing – review & editing, Validation, Data curation. Md Nashir Uddin: Writing – review & editing, Resources, Investigation, Data curation. Mohaiminul Haider Chowdhury**: Writing – review & editing, Validation, Formal analysis, Data curation. Md. Saiful Islam: Writing – review & editing, Methodology, Investigation. M. Safiur Rahman: Writing – review & editing,
+### CRediT authorship contribution 
+
+**Md. Abdullah-Al Mamun**: **Writing – original draft, Visualization, Software, Formal analysis, Conceptualization.**
+
+---
+
 
 ### Abstract
 
