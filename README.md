@@ -18,8 +18,7 @@
 
 ### CRediT authorship contribution statement
 
-**Md. Abdullah-Al Mamun**: **Writing – review & editing, Visualization, Software, Investigation, Data curation.** Abu Reza Md. Towfiqul Islam: Writing – original draft, Supervision, Project administration, Conceptualization. Anjum Tasnuva: Writing – review & editing, Resources, Formal analysis. Mst. Nazneen Aktar: Writing – review & editing, Validation, Investigation. Manoranjan Mishra: Writing – review & editing, Resources. Abdullah Al Mamun: Writing – review & editing, Software, Formal analysis, Data curation. Md. Julfiker Moin: Writing – review & editing.
-
+**Md. Abdullah-Al Mamun**: **Writing – review & editing, Visualization, Software, Investigation, Data curation.** 
 ---
 
 ### Abstract
