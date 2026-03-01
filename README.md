@@ -78,7 +78,7 @@ River water quality in monsoon-driven subtropical basins exhibits strong seasona
 ![Graphical Abstract, WQI Prediction](https://github.com/Abdullah-TU/Images-for-Other-Files/blob/main/Grahical%20Abstract%2C%20WQI%20Prediction.jpg)
 
 
-## 2. Hybrid data-driven framework for interpretable prediction of nitrate and sulfate risks in coastal aquifers
+## 3. Hybrid data-driven framework for interpretable prediction of nitrate and sulfate risks in coastal aquifers
 
 ### CRediT authorship contribution 
 
