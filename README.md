@@ -141,6 +141,7 @@ alt="SOM component planes and clustering" width="600">
 
 ### CRediT authorship contribution statement
  **Md. Abdullah-Al Mamun: Writing – review & editing, Methodology, Formal analysis, Data curation**. 
+ 
 ### Abstract
 
 <div align="justify">
@@ -164,7 +165,7 @@ Investigating the potential of novel data mining algorithms (DMAs) for modeling 
 ## 6. Predicting groundwater phosphate levels in coastal multi-aquifers: A geostatistical and data-driven approach
 
 ### CRediT authorship contribution statement
-**Md. Abdullah-Al Mamun**: **Writing – original draft, Software, Methodology, Formal analysis.** Abu Reza Md Towfiqul Islam: Writing – review & editing, Supervision, Conceptualization. Mst. Nazneen Aktar: Resources, Formal analysis, Data curation. Md Nashir Uddin: Writing – review & editing, Validation, Formal analysis, Data curation. Md. Saiful Islam: Writing – review & editing, Validation, Investigation. Subodh Chandra Pal: Writing – review & editing, Methodology, Formal analysis, Data curation. 
+**Md. Abdullah-Al Mamun**: **Writing – original draft, Software, Methodology, Formal analysis.** 
 
 ### Abstract
 
