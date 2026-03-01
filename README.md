@@ -114,7 +114,7 @@ alt="Fig. 1. Multi-scale geological and sampling framework" width="900">
 ## 4. Tracing source footprints of heavy metal(oid)s in coastal soils using traditional statistical techniques and machine learning data-driven models
 
 ### CRediT authorship contribution statement
-Abu Reza Md Towfiqul Islam: Writing – review & editing, Writing – original draft, Supervision, Conceptualization. Memet Varol: Writing – review & editing, Writing – original draft. Javed Mallick: Writing – review & editing, Writing – original draft. **Md. Abdullah-Al Mamun**: **Methodology, Investigation.** **Md. Yousuf Mia**: Methodology, Investigation. Md. Abu Bakar Siddique: Validation, Methodology, Data curation. Md Saiful Islam: Validation, Methodology, Data curation. Mst. Nazneen Aktar: Validation, Methodology, Formal analysis.
+ **Md. Abdullah-Al Mamun**: **Methodology, Investigation, Formal analysis, Writing – review & editing.**
 
 ### Abstract
 <div align="justify">
