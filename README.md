@@ -140,8 +140,7 @@ alt="SOM component planes and clustering" width="600">
 ## 5.  Optimizing coastal groundwater quality predictions: A novel data mining framework with cross-validation, bootstrapping, and entropy analysis
 
 ### CRediT authorship contribution statement
-Abu Reza Md. Towfiqul Islam: Conceptualization, Writing – original draft preparation, Writing – reviewing & editing, Supervision. **Md. Abdullah-Al Mamun: Writing – review & editing, Methodology, Formal analysis, Data curation**. Mehedi Hasan: Writing – review & editing, Methodology, Formal analysis, Data curation. Mst. Nazneen Aktar: Writing – review & editing, Validation, Formal analysis, Data curation. Md Nashir Uddin: Writing – review & editing, Software, Investigation, Data curation. Md. Abu..
-
+ **Md. Abdullah-Al Mamun: Writing – review & editing, Methodology, Formal analysis, Data curation**. 
 ### Abstract
 
 <div align="justify">
