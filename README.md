@@ -14,7 +14,7 @@ M.Sc. Computing Sciences (Data Science), Tampere University
 | **Marine Pollution Bulletin (MPB)** | Elsevier | Q1 | 4.9 | 9.7 | 2 |
 | **Environmental Geochemistry and Health (EGH)** | Springer Nature | Q1 | 3.8 | 7.2 | 1 |
 | **Urban Water Journal** | Taylor & Francis | Q2 | 2.1 | 3.6 | 1 |
-| **International Journal of Climatology** | Wiley | Q1 | 3.5 | — | 1 |
+| **International Journal of Climatology** | Wiley | Q1 | 3.5 | 8.2 | 1 |
 
 ---
 
