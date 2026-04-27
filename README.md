@@ -14,7 +14,7 @@ M.Sc. Computing Sciences (Data Science), Tampere University
 | **Marine Pollution Bulletin (MPB)** | Elsevier | Q1 | 4.9 | 9.7 | 2 |
 | **Environmental Geochemistry and Health (EGH)** | Springer Nature | Q1 | 3.8 | 7.2 | 1 |
 | **Urban Water Journal** | Taylor & Francis | Q2 | 2.0 | — | 1 |
-| **International Journal of Climatology** | Wiley | Q2 | 3.5 | — | 1 |
+| **International Journal of Climatology** | Wiley | Q1 | 3.5 | — | 1 |
 
 ---
 
@@ -264,7 +264,7 @@ Understanding the source tracing of heavy metal(oid)s (HMs) in coastal soils is 
 
 ## 6. Influence of Climate Drivers on Extreme Precipitation in Bangladesh: Spatiotemporal Patterns and Underlying Mechanisms
 
-**Journal**: International Journal of Climatology · **Year**: 2026 · **Category**: Q2 · **IF**: 3.5
+**Journal**: International Journal of Climatology · **Year**: 2026 · **Category**: Q1 · **IF**: 3.5
 
 **Authors**: Bushra A., **Mamun M.A.**, Islam A.R.M.T.
 
