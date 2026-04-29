@@ -7,7 +7,7 @@ M.Sc. Computing Sciences (Data Science), Tampere University
 
 ## Total Number of Publications: 9
 
-| **Journal Name** | **Publisher** | **Category (SCImago)** | **Impact Factor (JCR 2024)** | **CiteScore** | **No. of Papers ** |
+| **Journal Name** | **Publisher** | **Category (SCImago)** | **Impact Factor (JCR 2024)** | **CiteScore** | ** No. of Papers ** |
 |---|---|:---:|:---:|:---:|:---:|
 | **Science of The Total Environment (STOTEN)** | Elsevier | Q1 | 8.0 | 16.4 | 3 |
 | **Marine Pollution Bulletin (MPB)** | Elsevier | Q1 | 4.9 | 9.7 | 2 |
